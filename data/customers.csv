@@ -1,0 +1,2001 @@
+customer_id,name,age,region,plan,signup_date,support_tickets,nps_score,churned
+C00001,Brenda Alves,56,Centro-Oeste,Pro,2022-08-31,1,8,0
+C00002,Sra. Isabelly Câmara,69,Nordeste,Pro,2022-10-21,0,6,0
+C00003,Cauã Rocha,46,Centro-Oeste,Basic,2021-01-02,2,5,0
+C00004,Dra. Aurora Pastor,32,Nordeste,Basic,2023-10-31,0,6,0
+C00005,Ana Beatriz Alves,60,Sudeste,Basic,2022-03-10,0,7,0
+C00006,Henrique da Conceição,25,Norte,Enterprise,2021-05-05,3,0,0
+C00007,Amanda Novais,38,Nordeste,Basic,2022-04-30,2,7,1
+C00008,Yago Leão,56,Sul,Enterprise,2022-10-14,3,2,0
+C00009,Pietro Pastor,36,Sul,Basic,2023-03-11,1,2,1
+C00010,André Teixeira,40,Nordeste,Enterprise,2023-05-23,1,5,0
+C00011,Otávio Fernandes,28,Nordeste,Enterprise,2021-05-09,2,3,0
+C00012,Eduardo Cunha,28,Nordeste,Basic,2022-03-14,4,3,1
+C00013,Sr. Caleb Garcia,41,Sul,Pro,2023-01-21,3,3,0
+C00014,Luiz Henrique Ferreira,53,Sul,Basic,2022-05-16,1,9,0
+C00015,Julia Aparecida,57,Nordeste,Pro,2023-12-18,4,8,0
+C00016,Sra. Zoe Campos,41,Centro-Oeste,Basic,2021-07-30,1,7,0
+C00017,Anna Liz Novaes,20,Centro-Oeste,Basic,2023-06-21,3,2,0
+C00018,Luiz Miguel Oliveira,39,Sudeste,Basic,2021-02-14,1,0,0
+C00019,Bernardo Aparecida,19,Norte,Basic,2022-06-19,1,0,1
+C00020,Heloísa Vargas,41,Centro-Oeste,Basic,2022-04-06,2,0,0
+C00021,Bruno da Conceição,61,Sul,Pro,2022-01-26,3,3,0
+C00022,Mateus da Mota,47,Centro-Oeste,Enterprise,2023-12-04,1,5,1
+C00023,Maria Clara Castro,55,Sudeste,Basic,2021-01-27,3,3,0
+C00024,Dr. Gustavo Henrique Rios,19,Sudeste,Pro,2023-03-05,2,10,0
+C00025,Brayan Pereira,38,Norte,Basic,2023-09-02,2,10,0
+C00026,Eloá Nascimento,50,Centro-Oeste,Pro,2022-07-02,2,2,0
+C00027,Srta. Elisa Martins,29,Sul,Enterprise,2022-09-13,0,7,0
+C00028,Júlia Porto,39,Sul,Enterprise,2022-07-21,5,7,0
+C00029,Dra. Hellena Rodrigues,61,Nordeste,Enterprise,2022-12-05,2,5,0
+C00030,Sr. Ian Andrade,42,Sul,Basic,2021-07-04,2,8,1
+C00031,Dr. João Felipe Azevedo,66,Norte,Pro,2023-12-29,0,9,0
+C00032,Levi Cunha,44,Norte,Pro,2023-04-28,4,0,0
+C00033,Sara Gonçalves,59,Sul,Basic,2022-08-22,1,7,0
+C00034,Natália Casa Grande,45,Sul,Enterprise,2023-03-17,1,5,0
+C00035,Davi Miguel da Cruz,33,Nordeste,Basic,2021-03-20,5,0,0
+C00036,Dra. Zoe da Luz,32,Sul,Pro,2022-08-02,0,3,0
+C00037,Dra. Mariane Pacheco,64,Nordeste,Basic,2022-02-17,2,4,0
+C00038,Maria Cecília Câmara,68,Nordeste,Basic,2022-06-30,1,6,1
+C00039,Thomas Monteiro,61,Sul,Pro,2021-06-18,3,7,0
+C00040,Benicio Camargo,69,Sudeste,Pro,2022-11-12,2,8,0
+C00041,Emanuel Vieira,20,Sudeste,Basic,2022-08-06,5,5,0
+C00042,Mariana Peixoto,54,Nordeste,Basic,2022-05-30,3,9,0
+C00043,Matheus Garcia,68,Sul,Pro,2021-02-01,2,8,0
+C00044,Nina Moura,24,Sudeste,Basic,2021-10-14,2,3,0
+C00045,Yuri Albuquerque,38,Sul,Basic,2022-08-17,1,7,1
+C00046,Bruna Rodrigues,26,Sul,Enterprise,2023-12-03,0,2,0
+C00047,Juliana Vargas,56,Sul,Pro,2022-09-09,1,3,0
+C00048,Manuela Camargo,35,Centro-Oeste,Basic,2023-10-22,3,9,0
+C00049,Pedro Henrique Castro,21,Sul,Pro,2021-09-27,1,3,1
+C00050,Agatha Silveira,42,Centro-Oeste,Pro,2022-06-02,1,5,0
+C00051,Sra. Sarah Teixeira,31,Nordeste,Enterprise,2023-10-31,0,8,0
+C00052,Thiago Caldeira,67,Sudeste,Pro,2022-08-06,2,5,0
+C00053,Letícia Porto,26,Sudeste,Basic,2021-08-14,3,0,0
+C00054,Fernanda Cassiano,43,Sudeste,Basic,2022-11-01,4,4,0
+C00055,Sr. Vitor Hugo Vasconcelos,19,Sudeste,Basic,2023-07-06,2,8,0
+C00056,Agatha Peixoto,37,Sudeste,Pro,2021-05-06,3,4,0
+C00057,Dr. Antony Camargo,45,Sudeste,Basic,2023-08-14,3,5,0
+C00058,Dr. Isaque Araújo,64,Sudeste,Pro,2021-03-15,2,2,0
+C00059,Bruno Barros,24,Nordeste,Basic,2021-02-25,3,7,0
+C00060,Sra. Ana Lívia Teixeira,61,Sul,Basic,2022-12-21,0,9,0
+C00061,Carolina Cardoso,25,Norte,Enterprise,2022-07-07,2,10,1
+C00062,Olívia Novaes,64,Centro-Oeste,Basic,2021-02-01,2,3,0
+C00063,João Moura,52,Norte,Basic,2022-07-28,4,3,0
+C00064,Mariana Cunha,31,Norte,Pro,2022-10-29,2,10,0
+C00065,Gabriela Silva,34,Sul,Basic,2021-10-11,2,4,0
+C00066,Murilo Rios,53,Sul,Pro,2021-07-06,2,9,0
+C00067,Maria Fernanda Macedo,67,Sul,Pro,2022-05-13,2,8,0
+C00068,Milena Campos,57,Sudeste,Basic,2021-05-10,1,7,0
+C00069,Henry Gabriel Azevedo,21,Nordeste,Pro,2022-10-01,2,6,0
+C00070,Sr. Yuri da Conceição,19,Sudeste,Pro,2021-04-24,3,4,0
+C00071,Hellena Abreu,23,Nordeste,Basic,2021-01-13,1,8,0
+C00072,Bento da Conceição,59,Nordeste,Basic,2022-03-20,3,8,1
+C00073,Arthur Gabriel Farias,21,Norte,Basic,2022-03-23,3,9,0
+C00074,Théo da Costa,46,Norte,Enterprise,2023-09-13,1,9,0
+C00075,Ryan Cunha,35,Nordeste,Basic,2023-09-20,1,1,0
+C00076,Caroline Silveira,43,Nordeste,Pro,2022-12-16,4,3,0
+C00077,Olívia da Cruz,61,Sudeste,Pro,2021-03-15,2,7,0
+C00078,Maria Luísa Correia,51,Sudeste,Pro,2022-06-21,1,0,0
+C00079,Calebe Ribeiro,27,Norte,Basic,2021-04-11,1,4,0
+C00080,Maria Lima,53,Sul,Basic,2021-06-25,0,7,0
+C00081,Nina Siqueira,31,Nordeste,Pro,2022-03-03,2,1,0
+C00082,Carlos Eduardo Araújo,48,Sudeste,Basic,2021-02-10,3,1,0
+C00083,Maitê Caldeira,65,Norte,Basic,2022-03-05,2,7,0
+C00084,Gael Correia,32,Sudeste,Basic,2021-12-10,1,9,0
+C00085,Melissa Carvalho,25,Nordeste,Basic,2022-01-01,1,8,0
+C00086,Emilly da Mota,31,Nordeste,Enterprise,2022-09-01,4,6,0
+C00087,Isadora Barbosa,40,Centro-Oeste,Basic,2022-10-19,1,7,1
+C00088,Beatriz Aragão,57,Sul,Basic,2022-12-29,1,4,0
+C00089,Ágatha Albuquerque,38,Centro-Oeste,Basic,2021-08-17,3,0,0
+C00090,Isaac Cavalcante,33,Norte,Pro,2023-04-05,1,3,0
+C00091,Raquel Mendes,62,Sudeste,Pro,2023-06-08,1,1,0
+C00092,Murilo Araújo,35,Norte,Basic,2023-09-11,3,2,0
+C00093,Mateus Abreu,64,Nordeste,Pro,2023-04-16,2,2,0
+C00094,Julia Viana,41,Centro-Oeste,Pro,2021-04-27,2,8,0
+C00095,Laura Lima,43,Centro-Oeste,Enterprise,2023-03-29,2,9,1
+C00096,Dra. Raquel Cassiano,42,Centro-Oeste,Pro,2022-01-03,2,3,0
+C00097,Juan Cunha,62,Norte,Basic,2021-06-17,3,1,1
+C00098,Vitor Hugo Araújo,58,Nordeste,Basic,2023-08-12,3,2,0
+C00099,Sra. Ana Laura Aragão,46,Sudeste,Basic,2022-10-23,5,2,0
+C00100,Pietra Montenegro,32,Sudeste,Basic,2022-11-26,1,6,0
+C00101,Eduarda Araújo,62,Norte,Enterprise,2023-07-14,3,7,0
+C00102,Anna Liz Cirino,18,Centro-Oeste,Basic,2021-06-01,1,10,0
+C00103,Bernardo Rocha,42,Sul,Basic,2022-08-09,0,5,1
+C00104,Nathan Campos,24,Norte,Pro,2023-07-02,2,3,1
+C00105,Isadora Pacheco,26,Norte,Pro,2021-10-01,3,5,0
+C00106,Ana Cecília Pinto,41,Nordeste,Basic,2022-05-11,1,10,0
+C00107,Otto Ribeiro,18,Sudeste,Basic,2021-04-11,4,0,0
+C00108,Stephany Dias,61,Norte,Basic,2022-07-11,1,9,0
+C00109,Gustavo Rios,25,Norte,Pro,2021-03-14,0,7,0
+C00110,Sra. Isabella da Luz,41,Centro-Oeste,Basic,2023-11-04,2,0,0
+C00111,Caroline Rios,28,Centro-Oeste,Basic,2021-06-06,0,4,1
+C00112,Letícia Marques,68,Sul,Pro,2023-01-05,4,1,0
+C00113,Sr. Anthony Marques,34,Nordeste,Basic,2021-05-12,1,5,1
+C00114,Beatriz Barbosa,25,Sul,Pro,2023-10-16,2,8,0
+C00115,Hadassa Montenegro,52,Centro-Oeste,Basic,2022-07-13,1,4,0
+C00116,Davi Lucca Ferreira,52,Sudeste,Basic,2021-04-17,1,3,0
+C00117,Joaquim Freitas,50,Centro-Oeste,Enterprise,2021-09-22,1,1,0
+C00118,Emanuel Macedo,22,Nordeste,Pro,2021-06-04,2,2,1
+C00119,Liz Pimenta,59,Centro-Oeste,Basic,2023-09-15,1,5,1
+C00120,Vitória Albuquerque,56,Nordeste,Pro,2023-09-24,2,7,1
+C00121,Letícia Ribeiro,58,Nordeste,Pro,2021-09-04,3,7,1
+C00122,Davi Luiz da Luz,45,Nordeste,Pro,2022-06-15,4,4,0
+C00123,Cauê Souza,24,Nordeste,Basic,2023-05-08,2,4,0
+C00124,Daniela da Mata,26,Nordeste,Enterprise,2022-06-22,2,9,0
+C00125,Gustavo Henrique Silva,25,Sudeste,Basic,2022-12-30,3,2,1
+C00126,Sr. João Montenegro,29,Sul,Basic,2021-06-03,3,6,0
+C00127,Isis Aragão,51,Norte,Basic,2021-04-02,2,5,1
+C00128,Otávio da Mota,50,Sul,Basic,2021-12-04,3,0,0
+C00129,Alexandre Farias,65,Nordeste,Pro,2022-03-26,1,3,1
+C00130,João Castro,40,Sudeste,Basic,2023-03-21,4,5,0
+C00131,Sra. Mariane Novais,41,Centro-Oeste,Basic,2023-02-26,0,10,0
+C00132,Daniel Barbosa,54,Sudeste,Enterprise,2021-09-30,5,5,0
+C00133,Srta. Ísis Andrade,52,Nordeste,Basic,2022-08-11,2,10,1
+C00134,Sr. Pedro Cardoso,61,Sudeste,Basic,2021-06-26,1,2,0
+C00135,Leandro Fonseca,57,Sudeste,Basic,2023-04-11,1,5,1
+C00136,Luiz Henrique Costela,39,Nordeste,Basic,2022-10-05,1,9,1
+C00137,Isadora Rios,44,Sudeste,Basic,2023-12-09,2,5,0
+C00138,Luiz Gustavo Vasconcelos,52,Norte,Pro,2022-07-21,1,8,0
+C00139,Maria Luísa Pinto,18,Norte,Basic,2022-10-28,4,8,0
+C00140,Srta. Isabela Castro,52,Sudeste,Basic,2023-05-18,3,1,0
+C00141,Noah Alves,54,Centro-Oeste,Pro,2023-12-06,0,3,0
+C00142,Lucas Gabriel Viana,64,Nordeste,Pro,2021-10-29,2,8,0
+C00143,Isadora da Mata,31,Norte,Basic,2023-05-18,0,3,0
+C00144,Cauê Garcia,20,Centro-Oeste,Pro,2023-07-01,0,7,0
+C00145,Ravy Câmara,18,Sudeste,Basic,2022-02-12,2,9,0
+C00146,Raul Ferreira,22,Centro-Oeste,Basic,2023-04-02,3,2,0
+C00147,Ian Câmara,43,Sul,Pro,2022-07-15,2,2,0
+C00148,Gael Guerra,31,Norte,Basic,2022-04-09,2,8,0
+C00149,Dr. Bernardo Vargas,56,Sudeste,Enterprise,2021-05-24,1,10,0
+C00150,Luiz Fernando Ramos,44,Nordeste,Basic,2022-03-18,0,9,1
+C00151,Maria Liz Rocha,26,Sudeste,Pro,2022-05-02,2,7,0
+C00152,Luísa Alves,32,Nordeste,Basic,2023-05-10,3,0,0
+C00153,José Pedro Cavalcanti,32,Sudeste,Pro,2021-05-28,3,9,0
+C00154,Julia Andrade,43,Centro-Oeste,Pro,2023-12-31,3,1,0
+C00155,Pedro Henrique Ferreira,59,Centro-Oeste,Pro,2023-03-22,3,2,0
+C00156,Sra. Maya Pereira,30,Centro-Oeste,Basic,2022-10-28,0,10,0
+C00157,Bruna Gomes,68,Sul,Pro,2021-03-31,1,1,0
+C00158,Esther da Cunha,49,Nordeste,Pro,2021-07-18,2,2,1
+C00159,Pedro Henrique Abreu,56,Centro-Oeste,Pro,2022-06-22,1,7,0
+C00160,Zoe Rodrigues,66,Sul,Pro,2021-10-28,4,10,1
+C00161,Dra. Fernanda Fonseca,69,Nordeste,Pro,2022-12-25,0,10,1
+C00162,Ana Lívia Rios,49,Sudeste,Basic,2023-08-21,1,5,0
+C00163,Dr. Davi Silveira,21,Sul,Basic,2021-03-09,4,6,0
+C00164,Thiago das Neves,47,Norte,Basic,2022-04-04,1,9,0
+C00165,Maria Luísa Duarte,54,Sul,Basic,2022-02-02,2,9,0
+C00166,Laís Novaes,40,Sul,Enterprise,2022-09-12,4,5,1
+C00167,Gael Leão,56,Nordeste,Pro,2022-12-31,2,0,0
+C00168,Maria Helena Rocha,62,Sudeste,Enterprise,2022-07-10,3,10,0
+C00169,Srta. Liz Guerra,32,Norte,Basic,2023-02-20,1,2,1
+C00170,Agatha da Rosa,60,Centro-Oeste,Enterprise,2023-06-13,2,0,1
+C00171,Gustavo Henrique Lopes,46,Centro-Oeste,Pro,2022-09-02,1,9,0
+C00172,Luna Martins,53,Sul,Pro,2023-01-18,3,8,1
+C00173,Melina Rocha,30,Nordeste,Pro,2021-10-09,3,8,0
+C00174,Thomas Melo,49,Nordeste,Basic,2022-10-23,1,4,0
+C00175,Srta. Antonella da Paz,24,Centro-Oeste,Pro,2023-07-13,3,3,0
+C00176,Lívia Borges,68,Norte,Pro,2023-09-23,3,8,0
+C00177,Leonardo Câmara,39,Sudeste,Basic,2023-01-16,3,8,0
+C00178,Diogo Alves,45,Norte,Basic,2021-03-28,2,2,0
+C00179,Joaquim Melo,19,Sudeste,Enterprise,2023-03-02,0,4,0
+C00180,Ana Sophia Marques,59,Centro-Oeste,Enterprise,2021-10-31,4,2,0
+C00181,Evelyn Silva,62,Sudeste,Enterprise,2021-05-10,1,9,0
+C00182,Sra. Sabrina Guerra,23,Nordeste,Pro,2022-08-19,2,1,0
+C00183,Diogo Rezende,45,Sul,Basic,2022-07-12,2,0,0
+C00184,Srta. Bianca Vasconcelos,45,Sul,Basic,2023-06-18,1,9,0
+C00185,Hellena Cavalcanti,61,Centro-Oeste,Basic,2021-03-19,2,1,1
+C00186,Dra. Nicole Aragão,61,Nordeste,Basic,2023-02-23,6,7,1
+C00187,Isadora Campos,37,Norte,Basic,2022-11-05,0,10,0
+C00188,Catarina Martins,47,Nordeste,Basic,2021-08-26,4,7,0
+C00189,Vitória Novais,28,Sul,Basic,2021-10-05,2,2,1
+C00190,Luiza Sá,45,Sul,Enterprise,2023-11-08,1,6,1
+C00191,Sofia Lima,42,Nordeste,Basic,2022-06-08,2,6,0
+C00192,Melissa Castro,56,Nordeste,Enterprise,2021-06-29,4,1,0
+C00193,Sra. Milena da Luz,50,Sul,Pro,2021-05-03,1,8,0
+C00194,João Guilherme Vargas,18,Norte,Basic,2023-12-11,2,2,0
+C00195,Raquel Pires,44,Centro-Oeste,Basic,2023-12-31,2,1,0
+C00196,João Guilherme Macedo,69,Centro-Oeste,Basic,2022-04-25,5,2,0
+C00197,João Pedro da Costa,30,Nordeste,Basic,2023-11-09,1,1,0
+C00198,Lucas Gabriel Dias,58,Centro-Oeste,Pro,2021-03-25,0,7,1
+C00199,Anna Liz Carvalho,20,Sul,Basic,2022-07-19,2,4,0
+C00200,Igor Gomes,56,Sul,Basic,2022-09-11,1,2,0
+C00201,Srta. Hadassa Azevedo,23,Nordeste,Basic,2021-12-23,0,4,1
+C00202,Maria Luísa Farias,25,Nordeste,Enterprise,2023-03-27,1,10,0
+C00203,Nina Leão,44,Nordeste,Pro,2022-10-09,1,10,0
+C00204,Gustavo Leão,26,Norte,Pro,2022-03-19,2,7,1
+C00205,Alícia Teixeira,54,Centro-Oeste,Basic,2023-12-29,2,6,0
+C00206,Maria Helena Mendes,50,Nordeste,Pro,2022-06-07,2,5,1
+C00207,Luiz Gustavo da Rosa,68,Sudeste,Pro,2021-05-23,0,0,0
+C00208,Mariah Nascimento,59,Sudeste,Pro,2021-07-11,3,9,0
+C00209,Dra. Ísis Pereira,61,Sul,Enterprise,2022-01-13,1,0,1
+C00210,Ryan Câmara,41,Centro-Oeste,Basic,2022-08-04,1,0,0
+C00211,Pedro Henrique Mendonça,32,Nordeste,Enterprise,2022-06-19,3,9,0
+C00212,Mathias Fernandes,49,Sudeste,Enterprise,2023-10-30,1,7,0
+C00213,Maria Luiza Silveira,49,Centro-Oeste,Basic,2021-04-03,0,7,0
+C00214,Ravi Lucca Cardoso,41,Sul,Basic,2022-06-13,1,6,1
+C00215,Yasmin Alves,58,Norte,Enterprise,2022-02-09,2,5,0
+C00216,Amanda Barros,69,Centro-Oeste,Basic,2023-04-20,2,3,0
+C00217,Mariane Carvalho,66,Centro-Oeste,Pro,2023-06-08,1,0,0
+C00218,Emilly Aragão,66,Norte,Enterprise,2022-02-26,1,8,0
+C00219,Mateus Duarte,69,Centro-Oeste,Pro,2022-04-17,4,0,1
+C00220,Rafael Duarte,29,Sul,Basic,2023-06-12,3,3,1
+C00221,Dr. João Lucas Sá,56,Sul,Pro,2022-07-01,0,2,0
+C00222,Isis Barros,19,Norte,Basic,2022-09-23,1,6,0
+C00223,Allana Souza,20,Nordeste,Pro,2023-11-04,3,4,0
+C00224,Ana Júlia Ferreira,66,Sudeste,Basic,2023-02-17,3,4,0
+C00225,Bernardo Vasconcelos,54,Nordeste,Pro,2021-12-30,1,3,0
+C00226,Ana Cecília Sá,66,Centro-Oeste,Pro,2021-04-29,2,0,0
+C00227,Josué Costa,34,Sudeste,Pro,2022-06-30,3,4,0
+C00228,Eduardo da Costa,66,Norte,Pro,2022-06-06,1,3,1
+C00229,Renan Rios,19,Norte,Pro,2022-09-26,0,9,0
+C00230,Henrique Martins,19,Sudeste,Pro,2023-08-21,2,7,0
+C00231,Sra. Maria Eduarda Cavalcante,45,Sul,Basic,2023-08-16,3,1,0
+C00232,Bruna Vasconcelos,40,Sudeste,Pro,2023-06-02,2,7,0
+C00233,Leonardo Caldeira,54,Centro-Oeste,Basic,2023-02-19,3,0,0
+C00234,Amanda das Neves,49,Sul,Enterprise,2023-05-21,0,3,0
+C00235,Maria Flor Gonçalves,50,Norte,Basic,2022-05-31,2,2,1
+C00236,Srta. Ana Vitória Pastor,18,Sudeste,Basic,2023-07-27,4,4,0
+C00237,Dra. Isabelly Caldeira,36,Nordeste,Pro,2023-05-16,4,4,1
+C00238,Sra. Bárbara Vieira,19,Nordeste,Basic,2021-04-16,2,4,0
+C00239,Ana Cecília Ferreira,61,Centro-Oeste,Basic,2021-08-02,2,3,0
+C00240,Mariane Ribeiro,43,Nordeste,Pro,2023-04-30,1,7,0
+C00241,Sr. Thiago Ramos,49,Sudeste,Pro,2021-07-16,1,2,0
+C00242,Sr. Otto Mendonça,23,Sudeste,Pro,2021-01-19,0,3,0
+C00243,Pedro Fonseca,49,Nordeste,Basic,2022-10-04,2,0,0
+C00244,Natália Santos,21,Sudeste,Pro,2023-11-02,0,6,0
+C00245,Pedro Henrique Cavalcanti,28,Centro-Oeste,Basic,2021-11-26,1,0,0
+C00246,Dra. Júlia Pimenta,34,Sul,Pro,2023-05-16,3,1,1
+C00247,Rafaela Martins,55,Centro-Oeste,Pro,2023-02-13,0,10,0
+C00248,Juliana Duarte,41,Centro-Oeste,Pro,2022-01-27,2,6,0
+C00249,Caio da Mota,22,Sudeste,Basic,2022-09-29,1,0,0
+C00250,Isabelly Sá,69,Sul,Basic,2021-11-03,2,10,0
+C00251,Maria Helena Fernandes,51,Sudeste,Basic,2023-06-14,0,2,0
+C00252,Thales Duarte,23,Norte,Basic,2022-10-14,2,5,0
+C00253,Ryan Cunha,39,Sudeste,Basic,2023-04-21,1,5,1
+C00254,Dr. Luigi da Mota,28,Sudeste,Pro,2023-10-23,3,5,1
+C00255,Kamilly Novais,65,Sudeste,Basic,2022-06-04,3,10,0
+C00256,Valentim Correia,33,Sul,Enterprise,2022-09-28,2,1,1
+C00257,Isaque Silveira,50,Sudeste,Basic,2023-01-10,2,1,0
+C00258,Rebeca Novais,26,Sul,Pro,2022-04-14,2,5,1
+C00259,Renan Ramos,23,Nordeste,Pro,2021-07-31,0,9,0
+C00260,Sra. Melissa Vieira,33,Norte,Basic,2023-10-29,2,4,0
+C00261,Caleb da Rocha,46,Sul,Basic,2023-03-15,2,6,0
+C00262,Nathan Sales,20,Nordeste,Pro,2022-04-22,1,6,0
+C00263,Leandro Ribeiro,37,Sul,Basic,2023-05-24,3,4,0
+C00264,Maria Eduarda Melo,53,Sul,Enterprise,2022-04-05,1,7,1
+C00265,Vitória Ferreira,36,Norte,Pro,2021-09-10,1,9,0
+C00266,Luísa Fogaça,43,Centro-Oeste,Enterprise,2023-01-22,2,5,0
+C00267,Sra. Júlia das Neves,20,Centro-Oeste,Basic,2023-09-08,1,4,0
+C00268,Igor Campos,36,Sul,Pro,2023-05-04,1,3,1
+C00269,Srta. Luara Campos,37,Sudeste,Pro,2021-08-24,0,6,1
+C00270,Dra. Ester Correia,49,Nordeste,Pro,2022-04-23,3,3,0
+C00271,Rodrigo da Mota,24,Sudeste,Basic,2022-11-10,2,4,1
+C00272,Dra. Valentina Peixoto,69,Sudeste,Pro,2023-11-10,2,4,1
+C00273,Carlos Eduardo Correia,58,Sul,Basic,2021-08-04,4,0,0
+C00274,Ian Fonseca,50,Sul,Pro,2023-05-05,1,0,1
+C00275,Kevin Albuquerque,57,Sul,Basic,2021-05-15,3,2,0
+C00276,Dra. Carolina da Mota,56,Sul,Enterprise,2023-06-24,2,10,0
+C00277,Benjamim Novaes,35,Centro-Oeste,Basic,2022-02-14,2,2,0
+C00278,Davi Lucas Porto,57,Sul,Pro,2021-03-27,1,1,0
+C00279,Bella Albuquerque,18,Centro-Oeste,Enterprise,2022-07-10,3,1,0
+C00280,Larissa Melo,28,Centro-Oeste,Pro,2022-01-13,1,5,0
+C00281,Maysa Fernandes,45,Sul,Pro,2023-12-11,2,0,1
+C00282,Benjamim da Cunha,42,Norte,Basic,2021-08-30,1,5,1
+C00283,Bruna Azevedo,67,Nordeste,Enterprise,2023-07-09,3,4,1
+C00284,Rebeca Barbosa,40,Sudeste,Basic,2021-09-23,3,5,0
+C00285,Ana Júlia Cassiano,48,Centro-Oeste,Pro,2022-12-13,1,4,0
+C00286,Kevin Barros,47,Nordeste,Pro,2021-03-11,2,6,0
+C00287,Dante Novais,59,Norte,Pro,2021-02-26,0,0,1
+C00288,Heloisa Vasconcelos,52,Sudeste,Basic,2021-02-08,2,2,0
+C00289,Maria Helena Machado,24,Sudeste,Pro,2023-03-12,2,5,1
+C00290,Letícia Pastor,33,Centro-Oeste,Pro,2023-11-08,0,0,1
+C00291,Lorena Nunes,43,Sul,Basic,2023-01-02,3,10,0
+C00292,Ana Liz Pimenta,65,Norte,Enterprise,2023-04-05,4,10,0
+C00293,Srta. Giovanna Pires,69,Centro-Oeste,Basic,2023-01-26,0,6,0
+C00294,João Ribeiro,66,Norte,Basic,2021-12-18,3,3,0
+C00295,Emanuel da Costa,19,Sul,Basic,2021-10-10,1,2,0
+C00296,Yuri Barbosa,18,Sul,Basic,2021-04-20,2,9,1
+C00297,Alexandre Jesus,65,Centro-Oeste,Enterprise,2023-10-14,3,8,0
+C00298,Olivia da Rocha,29,Sul,Basic,2022-06-28,2,0,1
+C00299,Igor da Paz,22,Nordeste,Basic,2021-01-25,0,7,1
+C00300,Sra. Mirella Barbosa,54,Sudeste,Basic,2023-04-23,0,0,0
+C00301,Isabel da Luz,49,Centro-Oeste,Pro,2023-03-02,1,4,0
+C00302,Fernanda Lima,26,Norte,Pro,2023-01-08,4,9,1
+C00303,Yago Câmara,58,Nordeste,Basic,2021-02-26,1,7,0
+C00304,Clarice da Mata,52,Centro-Oeste,Basic,2021-06-29,0,5,0
+C00305,Brayan Araújo,36,Sul,Enterprise,2021-08-20,2,6,0
+C00306,Leandro Peixoto,65,Sul,Basic,2021-12-09,0,10,0
+C00307,Dra. Laura Macedo,33,Sul,Basic,2022-04-22,3,7,0
+C00308,Ravi Lucca Sales,20,Sul,Basic,2022-07-30,3,5,1
+C00309,Nathan da Mata,37,Norte,Pro,2022-03-31,2,10,0
+C00310,Ágatha Monteiro,41,Nordeste,Basic,2021-10-16,4,5,0
+C00311,Anna Liz Peixoto,50,Sudeste,Pro,2021-09-15,0,10,1
+C00312,Pedro Sousa,41,Norte,Basic,2022-06-14,4,5,0
+C00313,Dr. Apollo Borges,69,Norte,Enterprise,2022-11-18,1,4,0
+C00314,Antônio Teixeira,28,Sudeste,Basic,2023-07-18,2,7,0
+C00315,Juliana Oliveira,66,Sudeste,Pro,2021-08-17,1,1,1
+C00316,Erick Melo,25,Sul,Basic,2022-08-19,1,6,0
+C00317,Melina da Mota,53,Norte,Basic,2022-03-11,4,3,1
+C00318,Pedro Henrique Porto,55,Centro-Oeste,Pro,2023-06-01,0,0,1
+C00319,Ayla Melo,57,Sudeste,Basic,2023-10-18,0,4,0
+C00320,Dr. Lucas Gabriel Duarte,37,Sudeste,Enterprise,2022-02-06,3,2,0
+C00321,Bella Castro,52,Nordeste,Enterprise,2022-09-14,1,3,1
+C00322,Dr. Thales da Paz,65,Centro-Oeste,Enterprise,2021-03-29,2,6,0
+C00323,Maria Liz Teixeira,42,Centro-Oeste,Basic,2022-08-07,1,4,0
+C00324,Ana Carolina Marques,52,Sudeste,Pro,2021-11-05,2,3,1
+C00325,Levi da Cunha,42,Sul,Basic,2023-06-25,3,0,0
+C00326,Sr. Nathan Moraes,46,Nordeste,Enterprise,2021-12-09,3,5,0
+C00327,Vitor Hugo Martins,35,Centro-Oeste,Pro,2022-03-12,1,10,0
+C00328,Ana Júlia Correia,63,Sudeste,Pro,2021-06-26,1,9,0
+C00329,Maria Cecília Pinto,35,Centro-Oeste,Basic,2021-05-19,1,5,0
+C00330,Melina Teixeira,19,Nordeste,Pro,2021-07-13,2,6,0
+C00331,Gustavo da Mata,52,Nordeste,Basic,2023-08-01,2,0,0
+C00332,Caroline da Paz,33,Norte,Pro,2022-06-09,4,3,0
+C00333,Raquel Campos,58,Sudeste,Basic,2023-12-02,4,8,1
+C00334,Isaque Santos,53,Nordeste,Pro,2023-07-04,4,9,1
+C00335,Leonardo Novaes,50,Norte,Pro,2021-07-29,2,5,0
+C00336,Yuri Jesus,21,Norte,Pro,2023-01-11,2,1,0
+C00337,Henry Gabriel Camargo,50,Centro-Oeste,Basic,2023-05-12,0,3,1
+C00338,Bárbara Ramos,31,Centro-Oeste,Pro,2023-08-12,2,5,1
+C00339,Theo Silva,38,Norte,Basic,2023-04-13,1,3,0
+C00340,Thomas Santos,65,Centro-Oeste,Basic,2021-05-20,2,9,0
+C00341,Oliver Mendes,37,Nordeste,Basic,2023-03-03,2,6,0
+C00342,Isabelly Marques,25,Sul,Basic,2022-06-30,1,2,0
+C00343,Clara Gomes,24,Nordeste,Basic,2023-10-14,5,5,0
+C00344,Thomas Souza,20,Norte,Pro,2021-02-26,1,3,0
+C00345,Bernardo da Mota,34,Norte,Basic,2021-04-22,3,2,1
+C00346,Manuela Viana,50,Nordeste,Basic,2021-01-05,2,2,0
+C00347,Juliana Abreu,65,Centro-Oeste,Enterprise,2023-11-03,3,1,0
+C00348,Kaique Pastor,29,Centro-Oeste,Basic,2021-03-31,4,10,0
+C00349,Rebeca Cassiano,68,Norte,Pro,2022-09-08,1,2,1
+C00350,Zoe Mendes,39,Sudeste,Pro,2023-06-10,0,9,0
+C00351,Dr. Yuri Teixeira,39,Centro-Oeste,Enterprise,2022-11-29,4,0,0
+C00352,Maria Flor Marques,63,Nordeste,Pro,2023-06-17,3,2,0
+C00353,Sr. Isaque Oliveira,47,Centro-Oeste,Pro,2023-08-29,1,8,0
+C00354,Isabel Vasconcelos,55,Nordeste,Pro,2022-10-30,2,3,0
+C00355,Ana Clara Dias,55,Norte,Basic,2022-08-17,4,2,0
+C00356,Sra. Maria Helena Gomes,62,Centro-Oeste,Pro,2022-08-12,3,7,0
+C00357,Clarice Monteiro,68,Nordeste,Basic,2022-04-30,1,0,0
+C00358,Davi Lucas Montenegro,25,Norte,Enterprise,2023-09-09,0,4,0
+C00359,Luísa Brito,44,Sudeste,Basic,2023-08-30,4,0,0
+C00360,Beatriz Moura,44,Nordeste,Pro,2022-10-01,1,6,0
+C00361,Alice Silveira,51,Sudeste,Basic,2023-09-24,1,4,0
+C00362,Nicolas Rezende,38,Sudeste,Pro,2021-10-09,3,1,0
+C00363,Breno Melo,47,Sul,Basic,2023-09-13,3,0,0
+C00364,Lucca Pinto,50,Centro-Oeste,Enterprise,2021-01-16,2,10,0
+C00365,Sra. Anna Liz Farias,45,Nordeste,Pro,2023-07-25,0,6,1
+C00366,Yasmin Garcia,64,Sudeste,Basic,2021-09-11,3,0,0
+C00367,Dr. Vitor Hugo Andrade,50,Sul,Pro,2021-11-25,1,2,0
+C00368,Ana Lívia da Costa,22,Norte,Pro,2022-06-28,1,10,0
+C00369,Laura da Conceição,65,Nordeste,Pro,2023-02-22,2,5,0
+C00370,Srta. Maya Brito,36,Sudeste,Basic,2023-09-24,1,5,0
+C00371,Beatriz Macedo,21,Centro-Oeste,Basic,2023-04-25,1,6,0
+C00372,Kaique Alves,52,Sul,Basic,2022-01-01,2,10,0
+C00373,Luan Vieira,66,Sudeste,Basic,2022-10-17,1,10,0
+C00374,Juan Fogaça,34,Centro-Oeste,Enterprise,2023-01-30,3,0,0
+C00375,Dr. Diogo da Cruz,61,Sudeste,Basic,2022-10-01,1,6,0
+C00376,Maria Sophia Nunes,45,Nordeste,Pro,2023-11-30,1,1,0
+C00377,Emilly Cavalcante,47,Nordeste,Basic,2023-07-13,4,5,0
+C00378,Bruno Pimenta,46,Nordeste,Pro,2022-02-20,1,7,0
+C00379,Isabella Monteiro,63,Sul,Pro,2021-09-12,3,4,0
+C00380,Cecília da Conceição,23,Nordeste,Enterprise,2022-12-11,1,9,0
+C00381,Jade Marques,52,Centro-Oeste,Basic,2022-07-31,0,2,0
+C00382,Anthony Martins,58,Sudeste,Basic,2023-06-19,3,10,0
+C00383,Yago Castro,54,Norte,Basic,2021-01-11,1,7,0
+C00384,Pedro Miguel Ferreira,41,Centro-Oeste,Basic,2021-01-26,0,7,0
+C00385,Letícia Porto,46,Centro-Oeste,Basic,2023-08-15,3,3,0
+C00386,Isis Marques,66,Nordeste,Basic,2022-02-25,1,7,0
+C00387,Gael Henrique Gomes,63,Sul,Basic,2022-05-11,1,4,1
+C00388,Bianca da Costa,48,Sudeste,Pro,2021-08-25,4,10,1
+C00389,Maria Alice Oliveira,52,Sul,Basic,2023-10-06,2,4,0
+C00390,Juan Almeida,50,Sudeste,Basic,2021-08-07,3,2,1
+C00391,Maria Laura da Mota,69,Sudeste,Basic,2022-04-06,2,6,0
+C00392,Benicio Pereira,38,Sul,Pro,2022-10-25,1,10,0
+C00393,Sra. Laura Vasconcelos,49,Centro-Oeste,Enterprise,2022-09-27,0,10,1
+C00394,Luiz Gustavo Câmara,40,Sudeste,Pro,2023-09-17,2,8,1
+C00395,Esther Pinto,50,Sul,Pro,2021-07-08,0,8,1
+C00396,Davi Miguel Pires,20,Sudeste,Basic,2021-09-12,3,0,0
+C00397,Asafe das Neves,35,Norte,Pro,2021-03-09,1,0,0
+C00398,Ana Beatriz Pacheco,42,Centro-Oeste,Basic,2022-09-08,0,9,0
+C00399,Sr. Caleb da Rocha,59,Nordeste,Basic,2021-12-02,1,10,0
+C00400,Dr. Erick Costa,48,Sudeste,Pro,2022-11-02,1,4,0
+C00401,Vitor Hugo Fonseca,20,Norte,Enterprise,2023-04-01,4,0,1
+C00402,Sarah da Mata,57,Nordeste,Basic,2023-05-24,3,3,0
+C00403,José Miguel Mendes,63,Nordeste,Pro,2021-10-27,3,0,0
+C00404,Lucca Camargo,41,Sudeste,Pro,2021-12-23,1,1,0
+C00405,Ana Vitória Casa Grande,67,Sul,Basic,2021-09-13,2,1,0
+C00406,Miguel Novais,49,Sudeste,Basic,2023-10-05,3,3,0
+C00407,Sr. Miguel Albuquerque,64,Norte,Basic,2021-12-19,3,7,1
+C00408,Vitor Gabriel Campos,39,Nordeste,Basic,2022-06-08,4,1,0
+C00409,Maria Eduarda Rocha,40,Sudeste,Basic,2023-08-08,0,8,0
+C00410,Dra. Julia Pacheco,19,Sul,Basic,2023-01-26,0,8,1
+C00411,Maria Fernanda Caldeira,44,Sudeste,Basic,2021-10-11,3,1,1
+C00412,Isabel Melo,59,Centro-Oeste,Pro,2021-04-09,2,0,1
+C00413,Luan Pimenta,19,Sul,Pro,2021-07-16,1,9,1
+C00414,Benício Porto,43,Norte,Enterprise,2022-04-27,1,9,0
+C00415,Liz Rezende,34,Nordeste,Basic,2023-05-28,1,8,1
+C00416,Bruna Carvalho,57,Sudeste,Pro,2022-09-07,3,1,0
+C00417,Arthur Miguel da Rosa,50,Sul,Enterprise,2022-09-10,1,7,0
+C00418,Bruna Brito,26,Centro-Oeste,Pro,2022-01-03,0,2,0
+C00419,Vitor Gabriel Carvalho,60,Sul,Basic,2022-07-24,1,0,0
+C00420,Mirella Freitas,65,Centro-Oeste,Pro,2022-08-13,5,10,0
+C00421,Ágatha Leão,56,Norte,Basic,2023-12-02,1,0,0
+C00422,Daniela Leão,46,Nordeste,Basic,2022-02-26,0,9,0
+C00423,Beatriz Mendonça,59,Norte,Pro,2023-04-16,3,1,0
+C00424,Maria Luísa da Mota,43,Sudeste,Pro,2022-06-29,2,6,1
+C00425,Léo Cunha,52,Sul,Basic,2021-03-12,1,5,0
+C00426,Melina da Costa,67,Centro-Oeste,Enterprise,2023-02-07,1,10,0
+C00427,Sr. Léo Nogueira,42,Centro-Oeste,Pro,2021-11-03,4,1,1
+C00428,Maria Alice Araújo,41,Sul,Basic,2022-01-12,1,3,0
+C00429,Kamilly Correia,30,Sul,Enterprise,2022-10-17,2,1,0
+C00430,Rafael Borges,24,Sudeste,Basic,2022-11-09,2,0,0
+C00431,Hadassa Ramos,53,Norte,Enterprise,2022-02-03,1,2,0
+C00432,Alícia Aragão,62,Centro-Oeste,Pro,2021-08-09,4,3,1
+C00433,Sr. Davi Lucas Viana,37,Sudeste,Basic,2021-07-01,1,9,1
+C00434,Gabrielly Azevedo,18,Norte,Pro,2021-11-03,0,4,0
+C00435,Giovanna Pastor,25,Sudeste,Pro,2022-06-06,2,4,0
+C00436,Igor Farias,63,Centro-Oeste,Pro,2023-10-11,0,6,0
+C00437,Alexandre da Mota,33,Sul,Enterprise,2021-01-04,3,9,0
+C00438,Davi Lucca Nogueira,31,Sul,Pro,2023-05-13,0,7,0
+C00439,Erick Camargo,29,Norte,Pro,2023-04-28,5,8,0
+C00440,Amanda Cardoso,68,Nordeste,Enterprise,2023-03-15,3,6,0
+C00441,Luiz Henrique Vieira,40,Norte,Pro,2021-08-03,1,4,0
+C00442,Lorenzo Almeida,32,Nordeste,Basic,2023-08-30,2,8,0
+C00443,João Aragão,45,Sudeste,Enterprise,2021-04-11,2,7,0
+C00444,Otto Moura,51,Sudeste,Basic,2023-08-21,2,9,1
+C00445,Benício Melo,19,Centro-Oeste,Pro,2022-07-27,1,8,0
+C00446,Maria Cecília Moraes,49,Nordeste,Enterprise,2022-10-20,4,9,0
+C00447,Bianca Machado,40,Centro-Oeste,Pro,2023-07-28,1,7,0
+C00448,Hellena Pimenta,39,Sul,Pro,2023-12-23,4,5,0
+C00449,Vicente da Rosa,68,Nordeste,Pro,2021-08-14,0,3,0
+C00450,Ana Araújo,42,Norte,Basic,2021-04-15,2,8,0
+C00451,Maria Liz Lima,39,Sul,Enterprise,2023-02-11,2,8,0
+C00452,Bianca Mendonça,39,Sul,Basic,2022-03-05,1,9,0
+C00453,Sra. Ana Sophia Barros,66,Norte,Basic,2022-03-10,4,9,1
+C00454,Sr. Benício Cardoso,69,Sul,Basic,2023-11-18,2,8,1
+C00455,Yan Silva,59,Nordeste,Pro,2022-11-13,4,9,0
+C00456,Dr. Vinícius da Rocha,23,Centro-Oeste,Pro,2022-08-11,2,2,1
+C00457,Sofia Pereira,32,Sul,Pro,2023-12-29,3,10,0
+C00458,Beatriz Vieira,60,Nordeste,Basic,2023-05-16,3,2,1
+C00459,Srta. Helena Lopes,54,Sudeste,Basic,2023-01-16,1,10,0
+C00460,Heloísa Jesus,50,Nordeste,Basic,2023-05-14,0,5,0
+C00461,Dr. Murilo Leão,25,Centro-Oeste,Basic,2022-01-03,1,5,0
+C00462,Srta. Luara Lima,61,Nordeste,Pro,2021-09-08,2,5,1
+C00463,Dr. Marcelo Cassiano,61,Norte,Basic,2023-05-09,2,4,0
+C00464,Olívia Azevedo,22,Centro-Oeste,Basic,2023-05-06,4,4,0
+C00465,Bryan Borges,56,Sudeste,Basic,2022-07-15,1,1,1
+C00466,Aylla Souza,21,Norte,Basic,2021-10-21,3,6,1
+C00467,Sra. Caroline Novais,23,Nordeste,Basic,2023-07-08,4,3,0
+C00468,Lucas Rios,62,Centro-Oeste,Basic,2022-03-09,4,2,0
+C00469,Noah Fogaça,49,Sudeste,Pro,2021-02-28,1,7,0
+C00470,Mariana Silveira,69,Norte,Pro,2023-08-27,2,3,0
+C00471,João Pedro Peixoto,47,Sudeste,Pro,2023-04-16,3,10,0
+C00472,Luiz Gustavo Caldeira,64,Nordeste,Enterprise,2021-07-18,0,3,0
+C00473,Sofia Cunha,52,Sudeste,Basic,2021-08-03,1,7,0
+C00474,Rodrigo Câmara,57,Sul,Pro,2023-06-17,2,0,0
+C00475,Luiz Fernando Novais,69,Norte,Enterprise,2022-04-17,3,8,0
+C00476,Sr. João Lucas Oliveira,33,Sudeste,Basic,2021-09-04,2,6,0
+C00477,Paulo Novais,30,Nordeste,Enterprise,2022-01-17,1,1,0
+C00478,Amanda Pereira,67,Nordeste,Basic,2023-09-18,1,10,0
+C00479,Juliana Alves,59,Sudeste,Basic,2023-07-16,0,5,0
+C00480,João Gabriel Sampaio,47,Nordeste,Basic,2022-07-14,2,7,0
+C00481,Lucca Ferreira,36,Centro-Oeste,Pro,2023-12-11,2,10,1
+C00482,Fernando Casa Grande,34,Centro-Oeste,Pro,2022-11-20,1,4,0
+C00483,Maria Liz Azevedo,36,Centro-Oeste,Pro,2022-01-15,2,5,0
+C00484,Arthur Borges,45,Sul,Basic,2022-04-19,3,9,0
+C00485,Dra. Helena Garcia,43,Sudeste,Basic,2022-11-28,2,7,0
+C00486,Mirella Fernandes,54,Sul,Basic,2023-06-30,2,5,0
+C00487,Léo das Neves,43,Nordeste,Basic,2023-08-18,3,8,1
+C00488,Sra. Antonella Aragão,40,Sul,Enterprise,2022-04-23,2,8,0
+C00489,Emanuel Sá,26,Nordeste,Basic,2023-10-01,2,8,0
+C00490,Ana Julia Rocha,29,Nordeste,Pro,2023-07-15,1,5,0
+C00491,João Gabriel Macedo,18,Norte,Pro,2022-12-08,4,8,1
+C00492,Mariana Mendonça,18,Centro-Oeste,Basic,2023-05-04,5,2,0
+C00493,Melina Leão,64,Nordeste,Pro,2023-10-14,1,4,0
+C00494,Henrique Sá,51,Norte,Basic,2023-01-24,1,1,0
+C00495,Bruna Ferreira,49,Centro-Oeste,Basic,2022-05-18,4,7,0
+C00496,Brenda da Paz,65,Nordeste,Basic,2023-03-28,2,10,0
+C00497,Raquel Moura,42,Nordeste,Pro,2022-08-11,4,3,0
+C00498,Lorena Aparecida,57,Sul,Basic,2022-12-09,3,5,1
+C00499,Miguel Peixoto,62,Sul,Pro,2023-12-04,2,5,1
+C00500,André Costela,18,Centro-Oeste,Pro,2021-07-26,2,4,0
+C00501,Heitor Vargas,33,Nordeste,Basic,2021-05-31,0,0,1
+C00502,José Miguel da Rocha,56,Sudeste,Pro,2022-10-30,2,10,0
+C00503,Sr. André Monteiro,22,Sul,Pro,2022-06-12,0,6,0
+C00504,Sra. Emanuella Cardoso,39,Centro-Oeste,Basic,2021-06-14,4,9,0
+C00505,Yasmin Santos,46,Nordeste,Basic,2023-07-06,3,7,0
+C00506,Theodoro Novais,20,Nordeste,Pro,2023-10-07,3,0,0
+C00507,Maria Barbosa,29,Sudeste,Basic,2021-02-06,0,9,0
+C00508,Ana Cecília Lopes,43,Centro-Oeste,Pro,2021-11-29,4,6,1
+C00509,Raul Barbosa,33,Nordeste,Basic,2022-02-07,2,3,0
+C00510,Dr. Nathan Santos,68,Sul,Basic,2022-02-18,1,5,0
+C00511,Maria Vitória da Rocha,54,Sudeste,Basic,2021-02-14,1,8,0
+C00512,Nathan Almeida,39,Centro-Oeste,Basic,2021-07-25,3,4,0
+C00513,Sr. Raul Sales,46,Sudeste,Pro,2021-03-03,2,7,0
+C00514,Sr. Pedro Henrique Caldeira,31,Sul,Basic,2022-02-24,1,4,0
+C00515,Pedro Henrique Pastor,45,Centro-Oeste,Pro,2023-05-18,2,1,0
+C00516,Valentina Barros,22,Sudeste,Enterprise,2023-03-31,1,3,0
+C00517,Luana Souza,64,Norte,Pro,2021-01-19,2,1,0
+C00518,Sr. Lucas Gabriel Vasconcelos,66,Sul,Pro,2021-12-31,3,6,0
+C00519,Breno Moraes,47,Sul,Basic,2023-10-28,2,6,1
+C00520,Bruna Moura,63,Sul,Basic,2022-03-04,1,2,0
+C00521,Evelyn Vasconcelos,69,Norte,Pro,2022-08-03,0,6,0
+C00522,Dr. Diogo da Costa,22,Norte,Basic,2022-06-30,0,0,0
+C00523,Diogo da Cunha,29,Nordeste,Pro,2021-11-21,1,0,0
+C00524,Erick Pereira,33,Sudeste,Basic,2021-02-24,2,8,0
+C00525,Breno Cavalcanti,43,Nordeste,Pro,2023-02-17,2,5,0
+C00526,Sabrina Martins,43,Sudeste,Enterprise,2023-09-19,2,4,0
+C00527,Melissa Rodrigues,65,Norte,Enterprise,2021-02-11,1,5,0
+C00528,Luna Pires,38,Norte,Pro,2021-08-19,1,5,0
+C00529,Sr. Pedro Lucas Azevedo,56,Nordeste,Pro,2022-03-29,2,0,0
+C00530,Melina Pires,53,Centro-Oeste,Pro,2022-01-29,0,4,0
+C00531,João Guilherme Pastor,50,Nordeste,Pro,2022-11-22,1,8,1
+C00532,Luiz Gustavo Montenegro,47,Sudeste,Basic,2022-01-27,3,3,1
+C00533,Leonardo Martins,54,Nordeste,Basic,2022-08-27,0,2,0
+C00534,Ana Carolina Araújo,40,Sul,Basic,2023-05-31,0,0,0
+C00535,Dr. Breno Ramos,27,Sudeste,Enterprise,2021-03-26,1,1,1
+C00536,Thiago Gomes,22,Sudeste,Basic,2023-11-20,1,2,0
+C00537,Ana Cecília Machado,53,Centro-Oeste,Pro,2021-02-18,0,3,1
+C00538,Esther Duarte,51,Norte,Pro,2021-03-10,2,6,0
+C00539,Olívia Montenegro,69,Sudeste,Pro,2023-12-18,2,5,1
+C00540,Bento Machado,48,Norte,Pro,2022-11-28,2,10,1
+C00541,Luigi Silva,27,Nordeste,Basic,2022-04-24,0,7,0
+C00542,Thiago Ramos,36,Sul,Pro,2023-03-31,3,8,0
+C00543,Asafe da Cruz,49,Centro-Oeste,Pro,2021-05-27,0,5,0
+C00544,Sra. Maysa Moura,18,Norte,Basic,2023-10-13,2,6,0
+C00545,Eduarda Fonseca,22,Sudeste,Basic,2022-09-01,3,3,0
+C00546,Dr. Mathias Jesus,62,Norte,Pro,2022-03-22,4,1,0
+C00547,Sr. Lucas Gabriel Azevedo,21,Sudeste,Pro,2021-08-09,2,8,0
+C00548,Sr. Matheus da Paz,33,Norte,Basic,2021-04-05,2,8,0
+C00549,Dom Farias,41,Sudeste,Pro,2021-09-19,1,3,1
+C00550,Diego Ferreira,33,Nordeste,Pro,2023-06-16,4,2,0
+C00551,Matteo Cardoso,19,Sudeste,Basic,2023-12-31,3,9,0
+C00552,Antonella das Neves,66,Sudeste,Enterprise,2021-08-07,3,10,0
+C00553,Maria Flor Ramos,45,Sul,Pro,2021-04-02,2,5,0
+C00554,Sr. Vinicius Borges,49,Sudeste,Pro,2021-05-07,1,2,0
+C00555,Mariana Moraes,44,Sul,Pro,2021-03-21,3,0,1
+C00556,Sr. Luiz Miguel das Neves,37,Centro-Oeste,Basic,2023-09-10,1,3,0
+C00557,Heitor Fernandes,41,Sul,Basic,2023-07-05,0,0,0
+C00558,Evelyn Câmara,29,Nordeste,Basic,2022-05-01,3,1,0
+C00559,Eduardo Barbosa,67,Sul,Basic,2022-11-25,2,2,0
+C00560,Carlos Eduardo Montenegro,52,Centro-Oeste,Basic,2021-01-25,3,7,1
+C00561,Valentina Andrade,50,Nordeste,Enterprise,2021-06-05,3,9,0
+C00562,Maitê Vargas,50,Norte,Pro,2022-09-24,0,3,0
+C00563,Caroline Peixoto,68,Norte,Pro,2023-12-17,3,3,0
+C00564,Daniela Castro,60,Sul,Enterprise,2021-01-19,2,9,1
+C00565,Enzo Silveira,54,Sul,Pro,2021-08-25,2,8,0
+C00566,Ana Clara Jesus,29,Centro-Oeste,Basic,2021-10-04,3,6,1
+C00567,Sr. Pedro Miguel Pimenta,20,Centro-Oeste,Basic,2023-01-15,1,1,0
+C00568,Pietro da Conceição,18,Sudeste,Pro,2022-07-06,1,2,0
+C00569,Isabella das Neves,50,Centro-Oeste,Pro,2022-10-01,2,3,0
+C00570,Evelyn Freitas,57,Sudeste,Basic,2021-08-25,1,3,0
+C00571,Maysa Martins,27,Nordeste,Pro,2023-09-25,0,9,0
+C00572,Mateus Montenegro,60,Sul,Basic,2021-02-24,2,7,0
+C00573,Mariah Castro,61,Nordeste,Pro,2022-11-15,4,9,0
+C00574,Davi Miguel da Cunha,46,Centro-Oeste,Pro,2021-04-19,2,9,1
+C00575,Rodrigo Freitas,30,Nordeste,Pro,2022-01-08,0,5,0
+C00576,Bella Silva,29,Nordeste,Enterprise,2023-08-31,1,2,0
+C00577,Camila da Paz,48,Nordeste,Pro,2021-07-20,5,10,0
+C00578,Enrico da Mata,63,Centro-Oeste,Enterprise,2023-04-29,4,8,0
+C00579,Sophie Casa Grande,19,Nordeste,Enterprise,2022-05-24,4,9,0
+C00580,Ayla Câmara,68,Sudeste,Pro,2021-10-02,4,7,0
+C00581,Marcela Alves,67,Centro-Oeste,Pro,2021-07-30,3,8,0
+C00582,Ana Júlia Gonçalves,52,Nordeste,Basic,2022-05-19,2,4,0
+C00583,Maria Fernanda da Costa,40,Centro-Oeste,Basic,2022-12-04,1,2,0
+C00584,Anna Liz Freitas,34,Norte,Pro,2021-02-11,1,3,1
+C00585,Arthur Dias,43,Sudeste,Basic,2021-11-11,1,4,0
+C00586,Lucas Gabriel Vieira,25,Nordeste,Basic,2023-02-27,0,8,0
+C00587,Davi Miguel Andrade,46,Norte,Enterprise,2021-11-25,1,8,0
+C00588,Ravy Sampaio,43,Norte,Enterprise,2023-11-07,4,2,0
+C00589,Ravy Machado,27,Centro-Oeste,Pro,2021-10-10,0,6,0
+C00590,Alana Barros,43,Norte,Basic,2023-08-01,1,5,0
+C00591,José Miguel Cunha,51,Sudeste,Basic,2021-09-15,3,3,1
+C00592,Yan Siqueira,68,Sudeste,Basic,2022-07-29,1,4,1
+C00593,Vitória Lima,58,Sul,Basic,2022-07-28,2,9,0
+C00594,João Pedro da Costa,24,Sudeste,Basic,2022-09-04,1,1,0
+C00595,Davi Aragão,21,Norte,Basic,2023-11-09,2,10,0
+C00596,Otto Porto,67,Sudeste,Enterprise,2023-04-17,3,6,0
+C00597,Natália Azevedo,62,Centro-Oeste,Pro,2022-02-27,1,3,0
+C00598,Theo Peixoto,28,Sul,Basic,2023-01-28,5,1,1
+C00599,Allana Pires,46,Norte,Basic,2023-02-02,5,10,0
+C00600,Isabella Silva,53,Sul,Pro,2022-02-28,1,5,0
+C00601,João Vitor Lima,42,Norte,Basic,2022-03-05,0,10,1
+C00602,Luiz Gustavo da Costa,38,Centro-Oeste,Enterprise,2021-07-23,1,1,0
+C00603,Maria Vitória Cirino,53,Sul,Basic,2021-07-15,3,9,0
+C00604,Antonella Moura,27,Nordeste,Basic,2022-12-29,1,1,0
+C00605,Sr. Vinicius Nogueira,54,Norte,Basic,2021-10-12,0,6,0
+C00606,Sofia Novaes,26,Nordeste,Basic,2021-07-15,3,0,0
+C00607,Mathias Melo,41,Sul,Pro,2021-11-03,2,6,0
+C00608,Mathias Freitas,52,Nordeste,Pro,2021-01-14,0,9,0
+C00609,Antony Fogaça,66,Nordeste,Pro,2023-12-17,0,4,1
+C00610,Luiz Felipe da Costa,52,Sul,Basic,2022-12-24,1,0,0
+C00611,Dra. Bella Vargas,65,Centro-Oeste,Pro,2023-02-19,2,5,0
+C00612,Lívia Carvalho,53,Nordeste,Pro,2022-06-13,1,6,0
+C00613,Luiz Gustavo Nogueira,35,Nordeste,Enterprise,2023-03-09,0,0,0
+C00614,Sr. Ravi Sampaio,66,Centro-Oeste,Basic,2021-12-10,3,8,0
+C00615,Emilly Carvalho,56,Nordeste,Basic,2021-07-28,0,6,1
+C00616,Raul Andrade,49,Nordeste,Pro,2022-10-03,2,0,1
+C00617,Guilherme Aparecida,41,Nordeste,Pro,2021-09-09,1,2,0
+C00618,Asafe Dias,40,Sudeste,Basic,2021-09-28,1,4,1
+C00619,Théo Gonçalves,49,Centro-Oeste,Basic,2023-07-09,3,3,0
+C00620,Olívia da Cunha,54,Nordeste,Basic,2022-02-23,2,1,0
+C00621,Gabriel da Paz,29,Centro-Oeste,Enterprise,2023-03-06,3,0,0
+C00622,Sr. Lucas da Mata,66,Norte,Basic,2022-12-26,3,3,1
+C00623,Léo Lopes,30,Norte,Enterprise,2022-03-09,5,6,0
+C00624,Maysa Gomes,40,Nordeste,Pro,2021-04-19,2,10,0
+C00625,Sr. Theo Sales,42,Centro-Oeste,Enterprise,2022-10-03,0,3,1
+C00626,Maria Eduarda Moreira,52,Centro-Oeste,Pro,2023-12-07,1,8,0
+C00627,Bryan Siqueira,58,Centro-Oeste,Basic,2022-01-14,1,7,0
+C00628,Anna Liz Lopes,47,Sudeste,Enterprise,2023-08-16,2,7,0
+C00629,Emilly Nogueira,34,Norte,Basic,2021-04-13,3,4,0
+C00630,Lorenzo Caldeira,66,Centro-Oeste,Enterprise,2023-06-11,4,0,0
+C00631,Luan Ribeiro,37,Centro-Oeste,Pro,2023-05-04,0,8,0
+C00632,Leandro Machado,65,Sudeste,Basic,2023-11-17,1,1,1
+C00633,Mariane Cavalcante,42,Sudeste,Pro,2022-06-14,2,5,0
+C00634,Sra. Marcela Machado,39,Centro-Oeste,Enterprise,2022-11-10,2,9,0
+C00635,Luiz Gustavo Pimenta,30,Sul,Basic,2023-09-16,3,4,0
+C00636,Kamilly Porto,36,Centro-Oeste,Pro,2022-03-04,1,9,1
+C00637,Breno Rios,66,Centro-Oeste,Pro,2023-04-02,1,7,1
+C00638,Maria Luiza Fonseca,53,Sudeste,Pro,2023-07-21,2,10,0
+C00639,Eduarda Alves,29,Sudeste,Basic,2023-11-28,0,2,0
+C00640,Pedro Lucas Andrade,58,Centro-Oeste,Basic,2022-05-26,3,5,1
+C00641,Bernardo da Costa,36,Centro-Oeste,Basic,2022-01-28,3,5,1
+C00642,Maria Clara Fonseca,29,Centro-Oeste,Pro,2022-12-14,3,9,0
+C00643,Ana Beatriz Pereira,26,Sudeste,Basic,2022-05-09,3,2,0
+C00644,Rael Freitas,24,Centro-Oeste,Enterprise,2022-07-01,2,6,0
+C00645,Dr. Breno Oliveira,45,Centro-Oeste,Basic,2022-08-17,5,10,0
+C00646,Vinícius Fonseca,31,Nordeste,Pro,2022-01-24,3,3,1
+C00647,Luara Rezende,48,Sul,Basic,2021-06-07,1,4,0
+C00648,Josué Camargo,69,Norte,Basic,2023-10-25,4,8,0
+C00649,Francisco Monteiro,36,Sul,Basic,2021-06-16,2,5,0
+C00650,Maria Julia Novais,64,Nordeste,Basic,2023-08-18,2,9,0
+C00651,João Vasconcelos,33,Norte,Pro,2022-02-13,0,3,0
+C00652,Pietro Cunha,22,Centro-Oeste,Enterprise,2021-07-13,1,7,0
+C00653,Laura Sales,52,Nordeste,Pro,2021-08-23,2,8,0
+C00654,Gabriela Campos,29,Centro-Oeste,Enterprise,2022-12-19,1,9,0
+C00655,Brayan Machado,42,Sudeste,Enterprise,2023-03-27,3,4,0
+C00656,Pedro Miguel Borges,69,Nordeste,Pro,2022-02-08,5,1,1
+C00657,Luiza Rios,38,Sudeste,Pro,2023-06-12,2,5,1
+C00658,Sr. Yan Nogueira,53,Nordeste,Pro,2022-11-09,2,10,0
+C00659,Kaique Castro,40,Nordeste,Basic,2021-03-09,2,7,1
+C00660,Dra. Emanuella Vieira,33,Sudeste,Pro,2021-03-29,1,4,0
+C00661,Sr. Davi Costa,56,Norte,Basic,2021-08-05,1,0,0
+C00662,Isaac Vieira,62,Sul,Pro,2021-01-01,3,7,1
+C00663,Amanda Fonseca,59,Centro-Oeste,Pro,2021-05-20,4,8,0
+C00664,Maria Eduarda Martins,56,Nordeste,Basic,2022-09-10,2,0,0
+C00665,Caroline Pimenta,31,Centro-Oeste,Basic,2021-05-13,4,7,1
+C00666,Benício das Neves,48,Sudeste,Enterprise,2021-06-27,2,9,1
+C00667,Pietra Moura,22,Centro-Oeste,Pro,2023-03-21,3,1,0
+C00668,Maria Luísa Oliveira,52,Sudeste,Basic,2022-01-15,2,3,1
+C00669,Davi Lucas Dias,40,Centro-Oeste,Pro,2023-06-27,3,1,0
+C00670,Ana Sophia Machado,46,Sul,Pro,2022-10-20,2,1,0
+C00671,Stella Ferreira,60,Sul,Pro,2022-03-26,3,9,0
+C00672,Yuri Porto,28,Sul,Enterprise,2022-08-09,0,2,0
+C00673,Emilly Vargas,35,Sul,Pro,2022-04-08,2,7,0
+C00674,Pedro Montenegro,64,Sul,Basic,2023-09-17,2,3,0
+C00675,Davi Moreira,29,Sul,Pro,2021-05-02,3,6,0
+C00676,Kevin Cavalcante,26,Sudeste,Enterprise,2021-01-17,2,9,0
+C00677,Lorenzo Santos,27,Nordeste,Basic,2021-11-23,0,2,0
+C00678,Luiz Felipe Moreira,61,Centro-Oeste,Basic,2021-11-14,1,9,0
+C00679,Bruno da Cunha,34,Sul,Basic,2023-03-20,4,10,1
+C00680,Yuri da Mota,55,Sudeste,Pro,2022-05-18,2,2,0
+C00681,Kevin Pimenta,24,Sudeste,Pro,2021-04-29,2,1,0
+C00682,Ayla Montenegro,63,Sudeste,Pro,2022-12-11,1,5,0
+C00683,Eloá Pastor,30,Nordeste,Enterprise,2021-02-14,2,5,1
+C00684,Daniela Cavalcante,57,Centro-Oeste,Pro,2021-11-10,1,0,0
+C00685,Maitê Nunes,59,Nordeste,Basic,2022-02-22,2,6,0
+C00686,Arthur Barros,26,Norte,Basic,2022-07-10,1,3,0
+C00687,João Rezende,67,Sudeste,Basic,2021-11-22,2,10,0
+C00688,Oliver Pinto,44,Norte,Basic,2022-05-30,1,2,0
+C00689,Ana Monteiro,19,Sul,Pro,2021-08-02,3,7,0
+C00690,Ísis da Rocha,22,Sul,Enterprise,2021-03-15,1,1,1
+C00691,Liz Mendes,46,Nordeste,Basic,2022-05-24,2,8,0
+C00692,Nathan da Rosa,54,Centro-Oeste,Pro,2021-11-28,1,7,1
+C00693,Ana Sophia Sales,55,Norte,Pro,2022-11-19,0,7,1
+C00694,Emanuel Macedo,36,Centro-Oeste,Basic,2022-10-19,1,2,1
+C00695,Rafaela Martins,25,Nordeste,Basic,2023-10-25,2,3,1
+C00696,Luigi Pereira,65,Sul,Basic,2022-08-23,0,1,1
+C00697,Levi Silva,62,Centro-Oeste,Basic,2023-12-12,2,1,0
+C00698,Dr. Murilo Cardoso,18,Centro-Oeste,Enterprise,2021-11-21,2,3,0
+C00699,Sr. Liam da Costa,39,Sul,Basic,2023-09-19,0,5,0
+C00700,Camila da Mata,69,Norte,Basic,2022-12-18,1,4,1
+C00701,Isadora Casa Grande,34,Sul,Pro,2022-12-24,2,0,0
+C00702,Benicio da Rocha,24,Centro-Oeste,Enterprise,2021-10-04,0,9,0
+C00703,Mariah da Cruz,42,Norte,Basic,2022-06-20,4,0,0
+C00704,Luan Oliveira,62,Norte,Basic,2021-06-01,4,5,1
+C00705,Sra. Esther Teixeira,21,Sul,Basic,2023-08-13,1,2,0
+C00706,Theo Moraes,53,Centro-Oeste,Basic,2021-09-16,2,2,0
+C00707,Sara das Neves,23,Nordeste,Basic,2021-11-20,3,6,0
+C00708,Alícia Borges,48,Centro-Oeste,Pro,2023-10-14,4,0,0
+C00709,Sofia Marques,36,Sudeste,Basic,2023-05-19,3,0,0
+C00710,Henrique Pacheco,61,Nordeste,Basic,2022-11-19,1,9,0
+C00711,Sr. Benicio da Paz,56,Norte,Pro,2021-11-06,3,2,0
+C00712,Olivia da Paz,44,Nordeste,Basic,2023-03-14,1,7,1
+C00713,Alexia Caldeira,27,Norte,Basic,2023-12-16,1,0,0
+C00714,Catarina da Luz,43,Norte,Basic,2022-09-12,1,9,0
+C00715,Sra. Maria Luiza Fonseca,36,Nordeste,Enterprise,2022-04-18,3,3,0
+C00716,Murilo Aragão,56,Norte,Basic,2022-04-06,0,8,0
+C00717,Evelyn Fonseca,20,Norte,Enterprise,2023-03-25,3,3,0
+C00718,Laura Barbosa,62,Sudeste,Pro,2023-04-26,0,9,0
+C00719,Sofia Machado,30,Centro-Oeste,Basic,2022-10-29,2,7,1
+C00720,Lara Pinto,67,Centro-Oeste,Enterprise,2021-09-19,0,6,0
+C00721,Bárbara Cardoso,45,Sudeste,Basic,2021-12-21,0,2,0
+C00722,Matteo Freitas,37,Nordeste,Basic,2023-02-09,0,6,1
+C00723,Dr. Diego Costa,45,Sul,Pro,2021-06-29,1,6,1
+C00724,Sophia Guerra,25,Sul,Pro,2021-03-07,1,9,0
+C00725,Ana Cecília Aparecida,58,Sul,Pro,2023-03-31,3,2,0
+C00726,Davi Miguel Silva,56,Sudeste,Basic,2021-06-20,1,1,1
+C00727,Dr. Valentim Marques,18,Sudeste,Basic,2022-04-19,0,8,1
+C00728,Théo Carvalho,20,Norte,Pro,2022-06-18,3,0,1
+C00729,Dr. Enrico Gonçalves,30,Sul,Basic,2022-03-15,2,6,0
+C00730,Letícia Pastor,45,Nordeste,Basic,2023-04-15,1,3,0
+C00731,Dr. Kaique Melo,66,Nordeste,Basic,2021-08-15,1,1,0
+C00732,Léo Farias,42,Sul,Basic,2022-03-18,3,1,0
+C00733,Brenda Leão,50,Sul,Enterprise,2022-01-31,3,7,1
+C00734,Lorena Vieira,55,Sul,Basic,2022-12-29,1,6,1
+C00735,Dra. Amanda Peixoto,23,Sudeste,Enterprise,2021-03-25,2,6,0
+C00736,Julia Rezende,61,Sudeste,Basic,2023-11-03,3,4,0
+C00737,Heloísa Silveira,62,Sudeste,Pro,2022-11-24,2,9,0
+C00738,Rhavi Cavalcante,49,Centro-Oeste,Basic,2022-05-08,1,7,0
+C00739,Maria Helena Casa Grande,62,Nordeste,Basic,2023-08-28,2,1,0
+C00740,Isabelly Andrade,64,Nordeste,Basic,2021-12-19,1,1,0
+C00741,Brenda Correia,38,Norte,Basic,2023-12-17,2,4,0
+C00742,Pedro Lucas Dias,33,Sudeste,Pro,2021-02-09,4,0,0
+C00743,Clarice Jesus,38,Centro-Oeste,Enterprise,2022-10-02,1,5,0
+C00744,Srta. Maria Sophia Montenegro,28,Centro-Oeste,Pro,2021-06-22,0,3,1
+C00745,Olivia Sousa,54,Nordeste,Basic,2021-09-16,1,5,0
+C00746,Srta. Cecilia Moreira,53,Sudeste,Basic,2022-06-01,4,6,1
+C00747,Luan Ribeiro,52,Norte,Basic,2022-12-31,2,2,0
+C00748,Valentina Garcia,36,Sudeste,Pro,2022-06-07,0,10,0
+C00749,Sr. Raul Nascimento,37,Sul,Pro,2023-04-19,1,7,0
+C00750,Dr. João Pimenta,35,Sudeste,Enterprise,2021-04-27,0,6,1
+C00751,Evelyn da Cruz,64,Sul,Basic,2021-07-03,3,0,0
+C00752,Kaique Câmara,58,Sul,Pro,2021-06-11,1,5,0
+C00753,João Pedro Santos,66,Norte,Basic,2022-06-27,2,6,0
+C00754,Samuel Dias,31,Nordeste,Pro,2023-04-19,2,10,0
+C00755,Marcela Novais,32,Sudeste,Pro,2023-12-26,3,3,0
+C00756,Sra. Laura Campos,48,Sul,Pro,2023-12-30,2,1,0
+C00757,Ísis Garcia,18,Sudeste,Pro,2022-03-23,1,9,0
+C00758,Manuella Vargas,20,Nordeste,Basic,2022-02-20,4,8,0
+C00759,João Vitor Aparecida,33,Nordeste,Pro,2022-06-16,2,6,0
+C00760,Bruno Ferreira,40,Centro-Oeste,Basic,2022-03-17,2,0,0
+C00761,Jade Souza,28,Nordeste,Pro,2023-01-08,1,7,1
+C00762,Hadassa Costa,29,Norte,Basic,2022-04-09,4,2,0
+C00763,Júlia Novais,27,Sul,Pro,2022-01-31,1,3,1
+C00764,Sra. Cecilia Caldeira,49,Centro-Oeste,Enterprise,2022-12-12,3,4,0
+C00765,Isabella da Cruz,33,Norte,Enterprise,2022-01-30,2,0,0
+C00766,Vinícius Câmara,25,Sudeste,Pro,2021-11-22,1,5,0
+C00767,Isabel Aragão,55,Sul,Pro,2023-01-20,1,9,0
+C00768,Noah Farias,29,Nordeste,Pro,2023-12-30,0,5,1
+C00769,Sra. Beatriz Rodrigues,41,Sul,Pro,2022-10-04,1,1,1
+C00770,André Novaes,45,Sudeste,Enterprise,2021-08-02,1,10,1
+C00771,Nicolas Rezende,25,Centro-Oeste,Basic,2022-01-04,1,9,1
+C00772,Pietra Rezende,45,Centro-Oeste,Enterprise,2021-02-18,3,5,0
+C00773,João Pedro Duarte,53,Centro-Oeste,Enterprise,2023-12-12,2,7,0
+C00774,Bento Vargas,43,Nordeste,Pro,2021-05-13,3,5,0
+C00775,Igor Nascimento,25,Norte,Basic,2023-09-26,0,3,1
+C00776,Dra. Ana Carolina Cavalcanti,67,Norte,Basic,2023-02-25,1,3,0
+C00777,Emanuelly Andrade,45,Sul,Enterprise,2022-01-08,1,8,1
+C00778,Sabrina Cirino,45,Nordeste,Basic,2022-04-24,5,5,0
+C00779,Sra. Ana Carolina Albuquerque,54,Centro-Oeste,Enterprise,2023-04-12,5,7,0
+C00780,Cauê Farias,58,Centro-Oeste,Basic,2022-10-12,3,7,0
+C00781,Rafael Ramos,53,Sudeste,Basic,2022-11-13,3,6,0
+C00782,Valentina Monteiro,44,Sudeste,Enterprise,2022-11-19,2,2,0
+C00783,Thiago Martins,34,Centro-Oeste,Pro,2021-03-23,2,9,0
+C00784,Gael Camargo,26,Centro-Oeste,Pro,2021-03-28,2,0,1
+C00785,Sr. Raul Ramos,50,Nordeste,Pro,2021-08-13,0,4,0
+C00786,Francisco Albuquerque,37,Norte,Basic,2021-01-16,2,9,0
+C00787,Sra. Laís Nunes,30,Sudeste,Pro,2023-04-02,1,9,1
+C00788,Evelyn Cavalcanti,45,Norte,Basic,2021-06-12,2,1,0
+C00789,Maria Luiza Lima,65,Nordeste,Enterprise,2022-05-29,2,9,0
+C00790,Lunna Borges,46,Centro-Oeste,Enterprise,2021-12-16,4,1,0
+C00791,Aylla Cirino,30,Norte,Basic,2022-11-12,4,6,0
+C00792,Rhavi Duarte,63,Centro-Oeste,Pro,2021-06-30,2,10,0
+C00793,André da Luz,52,Centro-Oeste,Pro,2023-01-13,2,2,1
+C00794,Isabela Machado,23,Sul,Basic,2022-10-22,4,7,0
+C00795,Lucas da Rosa,35,Norte,Enterprise,2022-05-08,2,8,0
+C00796,Alexia da Luz,68,Norte,Basic,2023-07-12,4,7,0
+C00797,Maria Cecília Sales,22,Centro-Oeste,Basic,2021-05-08,0,5,0
+C00798,Bento Rios,64,Nordeste,Pro,2022-07-19,0,4,0
+C00799,Ravi Lucca das Neves,42,Sul,Pro,2022-07-04,2,2,0
+C00800,Nathan Rodrigues,19,Centro-Oeste,Pro,2022-03-29,2,2,0
+C00801,Luana Sales,27,Sudeste,Pro,2022-04-16,3,6,1
+C00802,Juan Freitas,47,Sudeste,Pro,2023-09-15,3,4,0
+C00803,Hellena Câmara,67,Sul,Pro,2023-01-08,4,5,0
+C00804,Rhavi Cassiano,62,Nordeste,Basic,2021-08-12,1,5,0
+C00805,Maria Fernanda Leão,22,Centro-Oeste,Basic,2021-06-03,2,8,0
+C00806,Dra. Olivia Sá,50,Norte,Basic,2022-07-14,1,0,1
+C00807,Helena Teixeira,18,Sul,Basic,2021-12-17,1,7,0
+C00808,Bruno Moura,35,Nordeste,Pro,2021-12-15,5,9,0
+C00809,Vitória Santos,49,Norte,Basic,2021-07-01,1,4,0
+C00810,Sr. Daniel Araújo,64,Sudeste,Basic,2022-09-29,3,5,0
+C00811,Sofia Costa,66,Sudeste,Basic,2023-10-15,1,5,0
+C00812,Zoe Cassiano,28,Norte,Enterprise,2021-06-28,0,0,0
+C00813,Luan Moreira,38,Sul,Enterprise,2023-11-29,1,2,1
+C00814,Bruna Rodrigues,43,Sudeste,Pro,2023-02-11,0,5,0
+C00815,Samuel Borges,42,Centro-Oeste,Enterprise,2023-06-13,1,10,0
+C00816,Melissa Araújo,39,Norte,Pro,2023-10-24,3,10,0
+C00817,Caroline Moraes,44,Norte,Pro,2023-10-13,2,8,0
+C00818,Mirella Nunes,66,Sudeste,Basic,2021-03-05,1,5,0
+C00819,Ravi Rocha,30,Sul,Pro,2021-01-29,3,5,0
+C00820,Antônio Gonçalves,50,Centro-Oeste,Pro,2022-01-07,3,0,0
+C00821,Alexandre Souza,51,Sul,Pro,2021-04-07,0,8,1
+C00822,Brayan Aparecida,58,Nordeste,Pro,2023-09-20,2,3,0
+C00823,Manuella Sampaio,52,Nordeste,Pro,2021-01-21,1,1,1
+C00824,Vitor Hugo Araújo,18,Sudeste,Pro,2023-01-05,2,0,0
+C00825,Ravy Andrade,38,Sudeste,Enterprise,2023-12-06,0,2,0
+C00826,Nicolas Cirino,65,Sudeste,Basic,2021-03-07,3,2,0
+C00827,Otto Freitas,23,Nordeste,Pro,2022-08-26,2,4,0
+C00828,Melissa Garcia,45,Sul,Basic,2021-12-04,4,0,0
+C00829,Anna Liz Rodrigues,34,Sul,Pro,2021-05-03,1,6,0
+C00830,Ágatha Carvalho,22,Sudeste,Pro,2022-03-23,4,0,0
+C00831,Marcela Campos,48,Centro-Oeste,Basic,2022-09-03,1,3,1
+C00832,Vitor Gabriel Gonçalves,22,Sul,Pro,2022-11-02,1,5,0
+C00833,Carolina Siqueira,55,Nordeste,Basic,2022-09-07,0,0,0
+C00834,Alexandre Sá,20,Norte,Pro,2023-06-16,4,6,1
+C00835,Kaique Martins,40,Norte,Basic,2021-10-08,4,9,0
+C00836,Ísis Lima,54,Norte,Pro,2023-12-03,2,6,0
+C00837,Maria Helena da Conceição,54,Centro-Oeste,Basic,2022-08-19,2,2,0
+C00838,Raul Ferreira,27,Sudeste,Pro,2022-12-04,2,3,0
+C00839,João Guilherme Correia,27,Nordeste,Basic,2023-12-11,2,5,0
+C00840,Srta. Ana Beatriz Ribeiro,36,Centro-Oeste,Enterprise,2021-07-29,4,10,0
+C00841,Allana da Costa,34,Nordeste,Enterprise,2021-05-06,0,6,1
+C00842,Bernardo Brito,38,Nordeste,Enterprise,2022-05-07,4,3,0
+C00843,Ana Beatriz Machado,31,Sudeste,Pro,2023-08-18,1,9,0
+C00844,Ana Julia da Cruz,26,Norte,Pro,2023-08-28,1,10,0
+C00845,Srta. Maria Liz Macedo,63,Sudeste,Basic,2022-08-04,2,8,0
+C00846,Vitor Hugo Cunha,18,Centro-Oeste,Basic,2023-02-16,3,8,1
+C00847,Davi Miguel Montenegro,68,Centro-Oeste,Basic,2021-09-15,2,8,0
+C00848,Igor Siqueira,62,Centro-Oeste,Pro,2021-08-18,7,9,0
+C00849,Luiza Oliveira,30,Sudeste,Enterprise,2021-07-08,5,5,0
+C00850,Luna da Costa,21,Nordeste,Basic,2021-01-10,2,1,0
+C00851,Diego Ribeiro,18,Nordeste,Enterprise,2022-11-07,3,1,0
+C00852,Hellena Jesus,66,Sul,Pro,2022-05-17,2,10,0
+C00853,João Guilherme Araújo,57,Centro-Oeste,Pro,2021-03-26,2,3,0
+C00854,Emanuella Pires,49,Nordeste,Basic,2021-02-18,2,8,0
+C00855,Mariane Novais,51,Sul,Basic,2023-04-18,2,2,0
+C00856,Ana Julia Ferreira,45,Nordeste,Pro,2023-10-05,2,5,0
+C00857,Maria Helena Viana,48,Centro-Oeste,Pro,2022-11-20,1,1,0
+C00858,Luiza Sampaio,25,Norte,Basic,2022-01-22,0,0,1
+C00859,Maria Luísa Cassiano,56,Centro-Oeste,Pro,2023-08-28,5,4,0
+C00860,Marcos Vinicius Cirino,43,Sudeste,Enterprise,2023-10-03,5,7,1
+C00861,Olívia da Costa,51,Nordeste,Pro,2021-08-06,1,9,0
+C00862,Kaique Santos,20,Nordeste,Enterprise,2023-10-02,2,9,1
+C00863,Ravi Araújo,67,Sudeste,Basic,2021-09-12,0,1,0
+C00864,Maria Sophia Leão,29,Sudeste,Basic,2021-08-24,1,9,0
+C00865,Vitória Carvalho,18,Norte,Pro,2023-11-16,2,8,0
+C00866,Isabelly da Cunha,61,Nordeste,Basic,2021-09-28,0,7,0
+C00867,Lucas Ramos,22,Nordeste,Basic,2021-05-03,2,2,0
+C00868,Rael Freitas,47,Norte,Basic,2022-10-18,4,0,0
+C00869,Vitor Gabriel Silveira,47,Sul,Basic,2021-09-16,3,3,0
+C00870,Benjamim da Mata,34,Norte,Basic,2023-08-06,3,7,0
+C00871,Ana Cecília Barbosa,65,Centro-Oeste,Basic,2021-02-16,5,2,0
+C00872,Henrique Mendes,64,Nordeste,Basic,2023-05-13,3,9,0
+C00873,Lucas Gabriel da Rosa,40,Sudeste,Basic,2022-06-09,6,1,0
+C00874,Heitor Correia,32,Centro-Oeste,Pro,2023-06-07,1,6,0
+C00875,Srta. Pietra da Cruz,54,Nordeste,Pro,2021-07-27,4,3,0
+C00876,Dra. Gabrielly Gonçalves,38,Norte,Pro,2023-01-17,0,5,0
+C00877,Yuri Duarte,31,Centro-Oeste,Basic,2021-05-29,2,4,0
+C00878,Mateus Martins,19,Nordeste,Basic,2022-03-14,4,1,0
+C00879,Maria Alice das Neves,28,Sul,Pro,2021-06-04,2,9,1
+C00880,Luiz Miguel Moraes,68,Sul,Pro,2021-12-24,3,1,0
+C00881,Nina Brito,56,Sudeste,Pro,2022-04-01,0,8,1
+C00882,Sra. Luiza Costela,55,Nordeste,Basic,2023-02-15,0,10,0
+C00883,Dr. Noah Aparecida,51,Sul,Enterprise,2022-09-21,2,9,1
+C00884,Hellena Sousa,55,Norte,Basic,2023-04-12,5,1,1
+C00885,Antony da Luz,67,Nordeste,Basic,2022-05-01,1,7,0
+C00886,Maria Vitória da Rocha,51,Norte,Pro,2022-06-17,1,7,0
+C00887,Gael Henrique Farias,35,Norte,Pro,2021-07-19,2,0,0
+C00888,Mateus Nunes,47,Sul,Basic,2022-01-06,2,0,0
+C00889,Theo Novaes,32,Nordeste,Basic,2023-10-11,1,3,1
+C00890,Maitê da Cunha,44,Centro-Oeste,Pro,2023-05-03,0,1,1
+C00891,Rebeca Marques,68,Sul,Basic,2021-09-05,3,0,0
+C00892,Luiz Gustavo Cavalcante,51,Sul,Basic,2023-02-27,1,8,1
+C00893,Yago Mendonça,69,Nordeste,Basic,2021-09-21,1,2,1
+C00894,Vitor Hugo Ramos,55,Nordeste,Pro,2023-12-18,1,0,0
+C00895,Vinicius Andrade,50,Norte,Basic,2021-01-31,2,1,0
+C00896,Benicio Teixeira,41,Nordeste,Enterprise,2022-08-28,2,7,0
+C00897,Noah Carvalho,32,Norte,Pro,2022-05-17,2,4,0
+C00898,Isabel Azevedo,47,Sul,Enterprise,2023-06-05,0,10,0
+C00899,Srta. Alexia Cunha,59,Sudeste,Enterprise,2022-07-03,3,6,0
+C00900,Mirella Freitas,68,Centro-Oeste,Basic,2023-04-19,4,5,0
+C00901,Rodrigo Ribeiro,34,Sul,Basic,2023-04-28,1,0,0
+C00902,Allana Abreu,22,Nordeste,Basic,2022-09-06,5,5,1
+C00903,Maria Sophia Albuquerque,46,Centro-Oeste,Basic,2022-02-16,2,10,0
+C00904,Vinícius Silveira,21,Sudeste,Pro,2022-03-08,1,6,0
+C00905,Vitor Gabriel da Paz,27,Sudeste,Basic,2022-11-09,3,3,1
+C00906,Theodoro Sampaio,34,Norte,Basic,2021-06-08,2,7,0
+C00907,Marina Cavalcanti,27,Centro-Oeste,Basic,2021-01-14,1,7,0
+C00908,Calebe Moura,34,Norte,Enterprise,2022-01-08,2,6,0
+C00909,Isaque Correia,37,Sul,Basic,2021-08-13,1,10,0
+C00910,Valentina da Cunha,41,Centro-Oeste,Basic,2022-05-26,4,1,1
+C00911,Dr. Miguel Barros,22,Sul,Basic,2022-08-26,3,5,0
+C00912,Dr. Raul Nunes,51,Norte,Enterprise,2021-08-04,3,5,0
+C00913,Henry Gabriel da Rosa,23,Centro-Oeste,Pro,2023-09-15,5,6,0
+C00914,Anna Liz Rezende,19,Norte,Basic,2023-04-20,1,5,1
+C00915,Ana Beatriz Borges,30,Centro-Oeste,Basic,2022-12-28,3,1,0
+C00916,Maria Helena Garcia,60,Norte,Basic,2022-07-08,3,7,1
+C00917,Olívia Araújo,60,Sudeste,Basic,2023-12-02,5,3,0
+C00918,Alexia Sampaio,65,Norte,Enterprise,2022-11-07,2,8,1
+C00919,Bryan Monteiro,28,Sudeste,Pro,2023-05-23,0,7,0
+C00920,Luísa Nunes,68,Norte,Basic,2021-10-10,2,2,0
+C00921,Vinícius Aparecida,64,Centro-Oeste,Enterprise,2023-12-18,4,2,0
+C00922,Heitor Sales,40,Centro-Oeste,Basic,2023-04-14,1,7,1
+C00923,Olívia da Mata,33,Centro-Oeste,Pro,2022-06-21,4,1,0
+C00924,Breno Rodrigues,48,Nordeste,Enterprise,2023-07-12,2,8,1
+C00925,Yago Nunes,28,Sul,Basic,2023-04-22,1,3,0
+C00926,Ana Beatriz Cavalcanti,33,Centro-Oeste,Pro,2023-08-06,2,5,0
+C00927,Sr. Gustavo Henrique Pastor,25,Sudeste,Basic,2022-10-27,2,2,0
+C00928,Miguel Barbosa,21,Centro-Oeste,Basic,2021-03-08,2,2,0
+C00929,Enrico Nunes,57,Nordeste,Basic,2021-01-06,3,2,0
+C00930,Mathias Rocha,21,Sudeste,Basic,2022-09-29,4,10,0
+C00931,Luísa Gomes,42,Nordeste,Pro,2021-11-10,2,9,0
+C00932,Srta. Anna Liz Montenegro,20,Sudeste,Enterprise,2022-07-19,0,1,1
+C00933,Sra. Ana Júlia Brito,49,Norte,Pro,2023-04-06,2,7,0
+C00934,Isabel Barbosa,20,Sul,Enterprise,2022-05-21,2,8,0
+C00935,Dr. Luan Alves,44,Sul,Pro,2023-10-23,1,7,1
+C00936,Júlia Viana,46,Nordeste,Basic,2021-07-23,1,9,0
+C00937,Rebeca da Conceição,49,Sul,Basic,2022-10-24,1,2,0
+C00938,Dr. Pedro Cirino,67,Nordeste,Basic,2023-03-16,1,6,0
+C00939,Maria Helena Barros,68,Nordeste,Pro,2022-02-08,2,10,0
+C00940,Laís da Cruz,36,Nordeste,Enterprise,2022-06-20,1,9,0
+C00941,Srta. Antonella da Mata,38,Sul,Basic,2022-07-31,2,1,0
+C00942,Mateus Silva,22,Nordeste,Pro,2023-02-02,4,3,1
+C00943,Daniela Sousa,35,Sul,Pro,2021-04-27,4,5,0
+C00944,Luiza Fonseca,45,Nordeste,Pro,2022-09-20,2,10,0
+C00945,Caleb Abreu,59,Centro-Oeste,Basic,2023-01-19,2,4,1
+C00946,Pedro Miguel Fonseca,39,Nordeste,Basic,2021-04-15,2,8,0
+C00947,Cauã Cardoso,38,Sudeste,Basic,2022-05-10,0,9,0
+C00948,Francisco Lopes,23,Nordeste,Basic,2021-02-15,1,3,1
+C00949,Sophie Jesus,18,Norte,Basic,2023-04-03,0,4,0
+C00950,Apollo Borges,22,Nordeste,Pro,2023-09-09,1,3,1
+C00951,Sr. Luan Gomes,58,Sudeste,Basic,2023-08-18,1,7,0
+C00952,João Vitor Jesus,29,Sudeste,Enterprise,2023-04-25,3,7,0
+C00953,Antonella Silveira,43,Sul,Pro,2022-03-25,2,2,0
+C00954,Isabelly Oliveira,63,Centro-Oeste,Pro,2022-06-20,2,0,0
+C00955,Eloá Rodrigues,51,Nordeste,Basic,2022-05-26,3,5,0
+C00956,Eloá Carvalho,66,Sul,Pro,2022-06-24,1,1,1
+C00957,Kevin da Mata,31,Centro-Oeste,Enterprise,2021-01-16,6,1,0
+C00958,Clara Azevedo,43,Nordeste,Basic,2021-08-31,2,2,0
+C00959,Pedro Henrique da Mota,62,Norte,Basic,2023-07-01,4,7,1
+C00960,Letícia Mendes,44,Nordeste,Pro,2023-01-31,2,2,0
+C00961,Luiz Miguel da Cunha,26,Sudeste,Basic,2022-12-06,0,6,0
+C00962,Thales Peixoto,43,Sudeste,Basic,2021-04-25,3,9,0
+C00963,Fernanda Marques,64,Norte,Basic,2022-02-01,1,9,0
+C00964,Davi Luiz da Rosa,39,Sul,Basic,2022-01-29,1,8,1
+C00965,Miguel Farias,64,Centro-Oeste,Pro,2023-09-05,2,7,0
+C00966,Maria Helena Farias,47,Nordeste,Basic,2021-10-24,1,0,1
+C00967,Lívia Lopes,60,Sudeste,Enterprise,2023-09-29,3,6,0
+C00968,Catarina da Rosa,65,Sul,Pro,2021-06-27,2,6,0
+C00969,Sr. Rhavi Dias,34,Norte,Pro,2023-08-25,4,7,0
+C00970,Miguel Dias,43,Sudeste,Pro,2021-11-11,0,9,1
+C00971,Samuel Oliveira,53,Norte,Enterprise,2023-11-29,2,4,0
+C00972,Luan Garcia,18,Nordeste,Basic,2021-09-16,2,9,0
+C00973,Matteo Fonseca,25,Centro-Oeste,Enterprise,2021-01-07,2,8,0
+C00974,Guilherme Pastor,66,Sudeste,Pro,2021-02-18,3,8,0
+C00975,Emilly Rodrigues,52,Sudeste,Pro,2021-06-10,3,7,0
+C00976,Amanda Siqueira,69,Nordeste,Pro,2021-06-25,0,5,0
+C00977,Giovanna Macedo,32,Sul,Basic,2023-10-23,2,5,1
+C00978,Bernardo Vieira,64,Centro-Oeste,Basic,2023-09-28,2,0,0
+C00979,Sara Carvalho,39,Sudeste,Pro,2022-03-31,3,5,0
+C00980,Liz da Costa,31,Centro-Oeste,Basic,2021-10-03,3,3,0
+C00981,Eduardo Silva,43,Sudeste,Pro,2022-05-13,1,3,0
+C00982,Maria Flor Barbosa,45,Centro-Oeste,Basic,2022-11-07,1,1,1
+C00983,Pietra Pacheco,40,Norte,Basic,2023-11-18,2,10,0
+C00984,Yasmin Montenegro,31,Sudeste,Basic,2023-10-22,1,3,0
+C00985,Sra. Ísis Andrade,41,Centro-Oeste,Basic,2021-02-25,2,4,0
+C00986,Sr. Cauê Vargas,19,Sul,Pro,2022-07-01,5,4,1
+C00987,Luiz Gustavo Cavalcante,62,Norte,Basic,2021-02-05,4,4,1
+C00988,Ana Clara Nunes,43,Norte,Enterprise,2022-03-15,3,3,0
+C00989,Maria Liz Sá,31,Sul,Pro,2022-08-18,4,0,0
+C00990,Dr. Cauê Albuquerque,68,Centro-Oeste,Basic,2021-11-03,0,9,0
+C00991,José Pedro Câmara,24,Nordeste,Pro,2022-09-11,0,7,0
+C00992,Stella Novais,20,Sul,Enterprise,2021-12-23,0,2,0
+C00993,Hellena Machado,64,Centro-Oeste,Pro,2021-06-30,1,1,0
+C00994,Dr. Ravi Vargas,40,Sul,Basic,2021-03-09,2,8,0
+C00995,Sarah Cassiano,63,Sul,Enterprise,2021-10-19,1,6,0
+C00996,Sr. Rodrigo Caldeira,60,Sudeste,Pro,2022-11-23,1,8,0
+C00997,Oliver Barros,64,Centro-Oeste,Basic,2021-06-30,0,1,0
+C00998,Diego Ferreira,62,Nordeste,Basic,2022-03-10,3,8,0
+C00999,Luigi Marques,35,Sudeste,Pro,2023-07-03,3,9,0
+C01000,Vicente Mendes,55,Sul,Basic,2021-03-07,2,8,0
+C01001,Dr. Calebe Macedo,52,Sul,Pro,2023-11-11,2,10,0
+C01002,Dra. Milena Dias,68,Sul,Basic,2022-01-19,1,8,0
+C01003,Kaique Aparecida,32,Centro-Oeste,Enterprise,2021-02-08,0,9,0
+C01004,Srta. Alícia Fernandes,42,Centro-Oeste,Pro,2023-04-02,1,9,0
+C01005,Bianca Rocha,54,Sudeste,Basic,2022-08-25,0,3,1
+C01006,Joaquim Moreira,45,Nordeste,Basic,2023-02-24,4,9,0
+C01007,Yuri Castro,27,Sudeste,Pro,2022-11-02,2,2,0
+C01008,Dr. Ravi da Conceição,56,Norte,Pro,2022-04-24,1,5,0
+C01009,Ester Cirino,34,Sul,Pro,2022-07-15,5,2,0
+C01010,Marina Gonçalves,56,Sul,Basic,2021-04-11,1,10,0
+C01011,Gael Henrique Machado,39,Sul,Basic,2022-05-29,2,8,0
+C01012,Mariane Gomes,43,Sudeste,Basic,2021-06-25,3,2,1
+C01013,Heitor Costela,61,Sudeste,Pro,2021-08-26,1,1,0
+C01014,Benício Oliveira,42,Sul,Basic,2023-06-29,1,7,0
+C01015,Vitor Gabriel Cirino,34,Sudeste,Basic,2023-12-19,2,5,0
+C01016,Dr. Gael Henrique Marques,30,Centro-Oeste,Pro,2023-05-21,1,7,0
+C01017,João Rios,37,Centro-Oeste,Enterprise,2022-05-10,1,6,0
+C01018,Vitória Porto,42,Sudeste,Basic,2023-08-05,2,2,0
+C01019,Dr. Matteo Pastor,21,Sul,Basic,2023-01-25,0,7,0
+C01020,Luiz Fernando Fogaça,27,Sudeste,Pro,2021-07-30,3,9,0
+C01021,Emanuella Rocha,20,Sudeste,Pro,2021-05-20,1,0,0
+C01022,Sra. Antonella Rocha,58,Sudeste,Basic,2022-06-25,1,0,0
+C01023,Levi Campos,62,Norte,Enterprise,2021-09-27,1,9,0
+C01024,Leandro Camargo,35,Centro-Oeste,Pro,2023-11-02,3,7,0
+C01025,Marcelo Sales,64,Nordeste,Basic,2022-05-21,3,8,1
+C01026,Thomas Gomes,53,Nordeste,Basic,2021-02-01,1,9,0
+C01027,Cecilia Oliveira,64,Norte,Pro,2023-12-29,2,5,1
+C01028,Mariana Cirino,39,Sudeste,Pro,2023-03-24,2,4,0
+C01029,Zoe Sales,51,Norte,Basic,2021-12-28,2,1,1
+C01030,Emanuella Novais,64,Norte,Pro,2023-07-18,1,10,0
+C01031,Samuel da Paz,25,Sul,Pro,2021-04-10,2,8,1
+C01032,Francisco Dias,57,Centro-Oeste,Basic,2021-01-09,2,5,0
+C01033,Ana Júlia Fogaça,66,Nordeste,Pro,2022-11-28,0,7,0
+C01034,Ryan Carvalho,61,Sudeste,Enterprise,2023-11-19,3,8,0
+C01035,Matheus Novais,36,Nordeste,Basic,2022-04-07,1,8,0
+C01036,Sabrina Jesus,59,Nordeste,Basic,2023-07-10,4,7,0
+C01037,Rebeca Leão,58,Centro-Oeste,Basic,2022-01-25,3,9,0
+C01038,Sra. Rebeca Cavalcante,54,Nordeste,Enterprise,2022-09-24,4,7,0
+C01039,Arthur Vieira,23,Nordeste,Enterprise,2022-11-13,3,2,0
+C01040,João Vitor Andrade,69,Norte,Basic,2021-06-06,0,2,0
+C01041,Henry Gabriel Nascimento,43,Centro-Oeste,Pro,2021-12-01,2,1,0
+C01042,Enzo Gabriel Vasconcelos,51,Sul,Pro,2021-09-17,2,0,0
+C01043,Sabrina Novaes,62,Sudeste,Pro,2021-03-23,1,3,1
+C01044,Brenda Oliveira,23,Nordeste,Basic,2023-01-24,1,1,1
+C01045,João Felipe Vasconcelos,54,Sudeste,Basic,2022-12-21,1,1,1
+C01046,Maria Clara Nogueira,50,Sul,Basic,2021-03-16,4,10,1
+C01047,Pedro Lucas Nogueira,39,Sudeste,Pro,2022-09-18,1,10,0
+C01048,Otávio Caldeira,38,Sul,Basic,2021-03-03,2,4,1
+C01049,Dra. Isadora da Rosa,23,Norte,Enterprise,2023-05-24,0,3,0
+C01050,Rael da Luz,23,Nordeste,Basic,2021-11-16,1,0,0
+C01051,Sr. Pedro Lucas Campos,65,Sul,Basic,2021-04-12,4,8,1
+C01052,Gustavo Henrique Sousa,21,Sudeste,Pro,2023-05-24,0,3,0
+C01053,Marcela Santos,47,Nordeste,Pro,2023-08-12,2,4,0
+C01054,Mariane Cavalcante,28,Norte,Basic,2021-09-12,0,6,0
+C01055,Cecilia Viana,47,Nordeste,Basic,2022-07-24,3,1,0
+C01056,Gustavo Araújo,48,Sul,Enterprise,2021-04-22,2,7,0
+C01057,Marcela Nascimento,41,Norte,Basic,2023-09-12,2,10,0
+C01058,Vitor Gabriel Cavalcante,26,Sudeste,Basic,2023-09-25,2,1,0
+C01059,Dr. João Vitor Oliveira,20,Norte,Pro,2022-04-06,1,10,0
+C01060,Théo Rocha,68,Norte,Basic,2022-12-09,2,9,0
+C01061,Davi Luiz Sá,48,Centro-Oeste,Basic,2023-06-06,2,4,0
+C01062,Ana Liz da Mota,57,Norte,Basic,2023-12-12,3,1,1
+C01063,Carolina Sampaio,54,Norte,Basic,2022-06-04,3,1,0
+C01064,Josué Casa Grande,53,Nordeste,Basic,2023-03-23,1,3,1
+C01065,Sra. Isadora Teixeira,41,Sudeste,Basic,2021-08-24,3,3,0
+C01066,Maria Júlia Mendonça,48,Nordeste,Basic,2023-07-16,3,7,0
+C01067,João Felipe Pires,23,Nordeste,Basic,2022-07-11,4,5,0
+C01068,Maria Flor Machado,19,Sul,Pro,2022-10-11,0,9,0
+C01069,Caleb Guerra,37,Nordeste,Basic,2021-08-22,1,7,0
+C01070,Lara Sales,45,Centro-Oeste,Basic,2023-11-22,0,6,0
+C01071,Dr. Ryan Duarte,28,Centro-Oeste,Enterprise,2022-08-02,1,9,0
+C01072,Agatha Vasconcelos,21,Sul,Pro,2022-06-26,0,3,0
+C01073,Srta. Natália Porto,32,Sudeste,Basic,2021-04-24,2,1,0
+C01074,Maria Alice Azevedo,23,Sudeste,Enterprise,2021-07-23,5,8,1
+C01075,Maria Laura Cunha,66,Nordeste,Basic,2023-11-19,0,1,0
+C01076,Hadassa Monteiro,47,Nordeste,Basic,2022-10-05,6,0,0
+C01077,Lorenzo da Paz,55,Nordeste,Pro,2022-04-19,0,7,0
+C01078,Sr. Ryan Viana,68,Sudeste,Pro,2022-11-28,4,9,0
+C01079,Sr. Augusto Brito,19,Norte,Basic,2021-09-10,2,8,1
+C01080,Natália Almeida,32,Centro-Oeste,Basic,2023-06-24,3,0,1
+C01081,Emanuel Macedo,28,Norte,Pro,2022-01-21,1,6,0
+C01082,Agatha Lima,25,Norte,Basic,2021-03-03,4,1,0
+C01083,Davi Lucca Rezende,43,Sudeste,Enterprise,2022-05-30,2,5,0
+C01084,Emanuel da Mota,68,Norte,Basic,2022-03-06,1,10,0
+C01085,Luiz Miguel da Cunha,62,Sul,Enterprise,2022-08-03,0,4,0
+C01086,Marcelo Rios,61,Nordeste,Pro,2023-01-13,3,0,1
+C01087,Eloah Aragão,22,Sul,Pro,2022-11-06,4,1,1
+C01088,Lorena Silveira,23,Centro-Oeste,Pro,2021-11-07,2,1,0
+C01089,Srta. Mariane Rezende,43,Nordeste,Pro,2022-04-16,4,9,0
+C01090,Calebe Abreu,21,Norte,Basic,2023-03-20,3,9,1
+C01091,Rhavi Barbosa,36,Centro-Oeste,Basic,2021-06-21,2,5,0
+C01092,Henry Gabriel Moreira,37,Nordeste,Basic,2022-07-30,5,10,0
+C01093,Melina Albuquerque,50,Norte,Enterprise,2021-01-31,1,0,0
+C01094,Luigi Campos,37,Sul,Pro,2021-02-16,2,10,0
+C01095,Caroline Mendes,66,Nordeste,Basic,2021-05-10,2,3,0
+C01096,Ian Gomes,29,Norte,Basic,2021-12-18,1,9,0
+C01097,Cauã Caldeira,64,Sul,Basic,2023-09-05,0,10,0
+C01098,Dr. Kaique Carvalho,18,Centro-Oeste,Pro,2021-02-27,3,4,0
+C01099,Catarina Ramos,43,Centro-Oeste,Basic,2023-03-23,3,1,0
+C01100,Cecília Azevedo,31,Centro-Oeste,Pro,2023-02-07,3,1,0
+C01101,Alexia Pimenta,55,Centro-Oeste,Enterprise,2022-11-14,2,6,0
+C01102,Eloah Macedo,54,Sudeste,Basic,2023-09-24,3,6,0
+C01103,Sr. Dom Jesus,28,Nordeste,Basic,2021-10-13,3,5,0
+C01104,Melina Cunha,53,Nordeste,Basic,2023-12-31,0,0,0
+C01105,Carlos Eduardo Carvalho,30,Sudeste,Basic,2023-06-05,1,2,0
+C01106,Matheus Ferreira,60,Norte,Basic,2022-02-01,4,8,1
+C01107,Luara Vieira,20,Norte,Basic,2021-01-26,1,9,0
+C01108,Josué da Mota,50,Centro-Oeste,Enterprise,2021-11-09,2,0,0
+C01109,Antonella da Cruz,23,Sul,Basic,2021-05-06,3,1,0
+C01110,Larissa Vasconcelos,67,Norte,Basic,2023-03-22,1,7,0
+C01111,Srta. Liz Costela,27,Sul,Enterprise,2021-07-07,1,6,0
+C01112,Sophia Correia,22,Nordeste,Pro,2022-11-29,4,8,0
+C01113,Sra. Laís Ramos,40,Sul,Basic,2023-03-21,5,9,0
+C01114,Isaque Monteiro,27,Nordeste,Pro,2022-12-17,1,3,0
+C01115,Brenda da Costa,61,Sudeste,Basic,2022-03-26,1,3,1
+C01116,Ana Sophia Moura,19,Sudeste,Pro,2022-06-07,5,6,0
+C01117,Luiz Miguel Dias,30,Centro-Oeste,Pro,2023-09-13,0,0,0
+C01118,Mathias Nunes,57,Norte,Pro,2022-10-20,2,9,1
+C01119,Maria Clara Nogueira,19,Centro-Oeste,Basic,2022-08-20,1,8,0
+C01120,Emanuella Teixeira,37,Nordeste,Pro,2021-04-10,2,1,1
+C01121,Ana Sophia Almeida,18,Centro-Oeste,Basic,2022-09-08,2,0,1
+C01122,Ana Lívia Albuquerque,54,Sul,Basic,2023-08-06,1,6,1
+C01123,Henrique Aparecida,26,Nordeste,Basic,2022-07-10,3,5,0
+C01124,Miguel Montenegro,34,Sudeste,Basic,2021-10-05,3,2,0
+C01125,Theodoro Vargas,26,Norte,Basic,2022-05-06,3,0,0
+C01126,Mariana Sampaio,28,Nordeste,Pro,2021-09-12,1,4,0
+C01127,Antonella Porto,32,Nordeste,Enterprise,2022-01-16,0,9,0
+C01128,Zoe Pimenta,41,Sul,Basic,2023-06-11,2,3,0
+C01129,João Lucas Barros,55,Norte,Basic,2022-06-26,1,4,0
+C01130,Bruno Moraes,52,Sudeste,Basic,2023-04-05,4,0,0
+C01131,Eduardo Nascimento,47,Nordeste,Basic,2023-05-29,4,0,0
+C01132,Dr. Benício das Neves,48,Nordeste,Basic,2021-10-08,1,4,0
+C01133,Sra. Isabella Araújo,66,Sul,Enterprise,2023-02-12,0,5,0
+C01134,Caio Lopes,22,Centro-Oeste,Basic,2023-04-23,2,4,0
+C01135,Rafael Pimenta,61,Sudeste,Basic,2022-12-20,2,1,0
+C01136,Ana Laura das Neves,67,Norte,Basic,2021-11-24,4,8,0
+C01137,Emanuella Campos,31,Nordeste,Enterprise,2021-07-30,1,4,0
+C01138,Davi Miguel Sampaio,28,Nordeste,Pro,2022-12-28,1,10,0
+C01139,Enrico Monteiro,26,Sudeste,Enterprise,2023-07-12,2,10,0
+C01140,Dr. Enzo Freitas,51,Centro-Oeste,Pro,2022-07-06,6,4,0
+C01141,João Felipe Siqueira,29,Nordeste,Basic,2021-01-26,1,9,1
+C01142,Arthur Farias,52,Sudeste,Basic,2021-01-27,0,8,1
+C01143,Júlia Moura,52,Sul,Pro,2022-12-03,1,2,1
+C01144,João Silva,18,Centro-Oeste,Basic,2022-11-13,1,4,0
+C01145,Ana Vitória Monteiro,57,Norte,Pro,2022-02-17,0,4,0
+C01146,Sophia Fonseca,39,Nordeste,Basic,2021-06-16,1,1,0
+C01147,Theo Nunes,46,Sudeste,Basic,2021-06-18,1,10,0
+C01148,Léo Castro,25,Sul,Pro,2021-08-17,4,3,0
+C01149,Cauã Oliveira,28,Norte,Pro,2022-01-02,6,10,0
+C01150,Bruna da Conceição,58,Sudeste,Pro,2022-06-12,1,10,0
+C01151,Dra. Agatha Aparecida,54,Sudeste,Basic,2023-03-02,1,1,0
+C01152,Joaquim Aparecida,31,Norte,Pro,2022-06-08,1,4,0
+C01153,Maria Clara Gomes,47,Sul,Basic,2021-04-16,2,9,0
+C01154,Felipe Andrade,52,Sul,Basic,2023-01-02,0,1,1
+C01155,Mariah Câmara,38,Centro-Oeste,Basic,2023-08-23,5,9,0
+C01156,Sr. Oliver Silveira,54,Nordeste,Basic,2021-05-13,2,8,0
+C01157,Dr. Breno Oliveira,22,Norte,Basic,2022-06-18,2,9,0
+C01158,Sr. Theodoro Rocha,36,Norte,Basic,2023-09-02,1,5,1
+C01159,Felipe Câmara,31,Norte,Basic,2021-09-26,1,7,0
+C01160,Ana Clara Guerra,43,Sul,Basic,2022-11-04,1,8,1
+C01161,Ravi Lucca da Paz,21,Nordeste,Basic,2023-03-02,6,7,0
+C01162,Luan Borges,42,Centro-Oeste,Basic,2021-01-18,2,4,1
+C01163,Mirella Albuquerque,62,Sudeste,Basic,2021-04-27,1,4,0
+C01164,Sr. João Vitor Nunes,59,Sudeste,Pro,2023-03-09,0,5,0
+C01165,Joaquim Martins,42,Norte,Basic,2022-07-05,4,0,0
+C01166,Dr. Gael Henrique Siqueira,35,Nordeste,Basic,2023-07-18,0,10,0
+C01167,Isabelly Cassiano,57,Sul,Basic,2023-01-23,4,7,1
+C01168,Nicolas Alves,25,Nordeste,Pro,2022-02-26,1,1,0
+C01169,Vitor Hugo Ferreira,56,Nordeste,Enterprise,2022-10-08,3,5,0
+C01170,Alexia Farias,57,Sul,Pro,2022-07-12,2,8,1
+C01171,Marcos Vinicius Sousa,31,Norte,Pro,2021-02-19,2,2,0
+C01172,Sra. Bella Costela,49,Nordeste,Basic,2022-11-09,3,1,1
+C01173,Isabela Leão,68,Sudeste,Pro,2021-04-16,1,9,0
+C01174,Ana Liz Casa Grande,55,Sul,Pro,2022-10-20,1,4,1
+C01175,Sra. Ayla Aparecida,50,Centro-Oeste,Basic,2023-09-15,1,10,0
+C01176,Vicente Jesus,40,Norte,Basic,2023-04-22,2,8,0
+C01177,Sra. Natália Souza,32,Sul,Basic,2022-03-22,1,5,0
+C01178,Calebe Montenegro,50,Centro-Oeste,Enterprise,2021-03-11,1,7,0
+C01179,Matteo Barbosa,42,Centro-Oeste,Pro,2021-05-30,1,7,0
+C01180,Ana Liz Lopes,34,Nordeste,Pro,2023-02-13,3,6,0
+C01181,Caroline da Costa,50,Nordeste,Basic,2023-08-02,6,4,1
+C01182,José Pedro Dias,64,Nordeste,Basic,2022-03-31,2,1,1
+C01183,Lunna Dias,19,Sul,Basic,2023-08-04,0,9,1
+C01184,Júlia da Conceição,31,Sul,Basic,2022-08-24,0,9,1
+C01185,Guilherme Carvalho,57,Norte,Pro,2022-10-15,3,4,1
+C01186,Bianca Cassiano,57,Nordeste,Pro,2022-12-26,3,6,1
+C01187,Enzo Machado,68,Centro-Oeste,Basic,2021-08-21,4,6,1
+C01188,Luara Jesus,56,Sudeste,Pro,2021-09-08,2,10,0
+C01189,Vitor Gabriel Fogaça,68,Norte,Basic,2021-03-20,0,1,1
+C01190,Rael das Neves,23,Sul,Enterprise,2023-12-12,2,6,1
+C01191,Julia Campos,23,Norte,Basic,2023-06-17,3,5,0
+C01192,Emanuel Rodrigues,20,Norte,Basic,2023-07-10,2,6,0
+C01193,Asafe Cunha,24,Norte,Basic,2023-02-20,1,10,0
+C01194,Sr. Caleb Silva,68,Norte,Basic,2021-08-14,2,7,1
+C01195,Luiz Henrique Gonçalves,25,Sudeste,Basic,2023-12-11,2,3,1
+C01196,Ana Julia Rocha,59,Nordeste,Pro,2023-11-24,1,0,0
+C01197,José Pedro Cavalcanti,69,Centro-Oeste,Enterprise,2023-03-14,1,7,0
+C01198,Nathan Machado,32,Norte,Pro,2023-01-12,4,7,0
+C01199,Isadora Brito,64,Norte,Basic,2021-05-11,2,2,0
+C01200,Bella Vieira,46,Norte,Pro,2023-10-20,4,2,0
+C01201,Davi Albuquerque,50,Nordeste,Basic,2022-09-24,1,4,0
+C01202,Henry Cardoso,69,Sul,Basic,2023-04-18,1,2,1
+C01203,Murilo Freitas,47,Sul,Pro,2023-01-29,3,4,0
+C01204,Antonella Pacheco,56,Sudeste,Pro,2022-12-05,2,7,0
+C01205,Joana Barbosa,44,Sul,Basic,2022-05-12,1,0,1
+C01206,Benício Costa,53,Norte,Basic,2021-11-19,1,1,0
+C01207,Melina Cardoso,46,Norte,Enterprise,2022-09-07,1,1,0
+C01208,Lucas Campos,55,Norte,Basic,2021-11-25,1,3,0
+C01209,Ravi Aragão,50,Sudeste,Basic,2021-05-13,0,8,0
+C01210,Pedro Silveira,54,Norte,Pro,2023-04-15,3,1,1
+C01211,Sara Alves,44,Sul,Basic,2022-10-13,4,10,1
+C01212,Mariane Cavalcanti,50,Nordeste,Basic,2021-05-01,1,8,0
+C01213,Sr. Francisco da Mota,21,Nordeste,Basic,2022-08-29,3,6,0
+C01214,Pietro Cassiano,39,Centro-Oeste,Pro,2023-08-23,0,9,0
+C01215,Joaquim Ramos,19,Sul,Pro,2021-05-09,3,7,0
+C01216,Theo Jesus,27,Norte,Pro,2021-01-29,1,0,1
+C01217,Pietra Araújo,22,Nordeste,Enterprise,2022-12-23,2,4,0
+C01218,João Lucas Gomes,27,Sul,Pro,2021-11-29,3,8,0
+C01219,Otto Costa,50,Nordeste,Basic,2023-08-02,2,3,1
+C01220,Valentina da Cruz,55,Norte,Basic,2023-11-14,1,1,1
+C01221,Ísis Vieira,30,Nordeste,Pro,2021-12-22,1,5,0
+C01222,Mateus Viana,48,Centro-Oeste,Pro,2021-05-19,2,1,1
+C01223,Sra. Pietra Nogueira,64,Centro-Oeste,Pro,2021-01-29,1,2,0
+C01224,Manuella Nunes,53,Nordeste,Pro,2023-07-20,2,7,0
+C01225,Luna Gomes,62,Sul,Basic,2022-05-11,2,2,0
+C01226,Fernando Alves,41,Sul,Basic,2023-10-11,3,1,0
+C01227,Sr. Arthur Vasconcelos,69,Sul,Basic,2022-10-17,5,5,0
+C01228,Benjamin Melo,32,Nordeste,Basic,2023-04-08,2,2,0
+C01229,Maria Alice Vargas,46,Sul,Basic,2021-12-17,2,0,0
+C01230,Isabel Castro,25,Norte,Pro,2022-07-08,1,2,0
+C01231,Josué Ribeiro,22,Centro-Oeste,Pro,2021-10-26,4,5,0
+C01232,João Felipe Nascimento,46,Norte,Basic,2021-03-05,2,2,0
+C01233,Srta. Hellena Oliveira,64,Sul,Basic,2023-01-25,2,8,0
+C01234,Maria Cavalcanti,21,Norte,Basic,2023-02-09,0,6,0
+C01235,Isaac Pastor,29,Sul,Basic,2023-04-14,1,4,0
+C01236,Dr. Arthur Santos,62,Nordeste,Pro,2021-06-15,1,1,1
+C01237,Sra. Cecília Nunes,19,Norte,Pro,2022-05-21,1,8,0
+C01238,Thales Nogueira,44,Nordeste,Pro,2023-03-04,2,4,0
+C01239,Erick Mendonça,48,Nordeste,Pro,2023-04-13,3,6,0
+C01240,Caleb Araújo,68,Sudeste,Pro,2023-05-08,3,8,1
+C01241,Henry Almeida,68,Sul,Basic,2023-03-17,4,3,1
+C01242,Pietra Abreu,53,Centro-Oeste,Basic,2023-01-31,3,8,0
+C01243,Sr. Davi Lucca Fernandes,53,Sul,Basic,2023-04-13,1,0,0
+C01244,Srta. Luna Araújo,43,Centro-Oeste,Enterprise,2021-10-10,3,5,0
+C01245,Diogo Pastor,60,Sul,Basic,2022-01-14,1,1,1
+C01246,Srta. Brenda Moura,44,Nordeste,Basic,2021-07-17,2,7,0
+C01247,Sr. Marcelo Santos,22,Norte,Enterprise,2023-10-12,0,4,1
+C01248,Maria Laura Pastor,37,Norte,Enterprise,2023-10-21,1,2,0
+C01249,Lucca da Rosa,28,Sudeste,Pro,2022-07-10,1,1,0
+C01250,Sr. Emanuel Siqueira,27,Centro-Oeste,Basic,2021-12-22,4,7,1
+C01251,Raquel Rezende,57,Centro-Oeste,Basic,2023-11-07,1,6,1
+C01252,Sr. Luiz Henrique Câmara,55,Centro-Oeste,Basic,2022-10-01,2,8,0
+C01253,Emanuella Garcia,23,Nordeste,Basic,2022-01-14,2,7,0
+C01254,Juan Cardoso,25,Centro-Oeste,Basic,2022-11-11,1,10,0
+C01255,Alexandre Sampaio,40,Norte,Basic,2022-05-21,3,3,0
+C01256,Maria Júlia Vargas,64,Nordeste,Enterprise,2023-06-18,4,1,0
+C01257,Ana Beatriz Cirino,43,Sul,Basic,2021-03-17,0,1,0
+C01258,Luiza Pimenta,63,Centro-Oeste,Pro,2021-08-19,2,1,0
+C01259,Cauã Monteiro,60,Centro-Oeste,Pro,2023-08-20,2,10,0
+C01260,Lucas Souza,29,Sul,Basic,2021-10-29,5,5,0
+C01261,Isaac Ferreira,43,Centro-Oeste,Pro,2022-12-27,2,6,0
+C01262,Sr. Caio Santos,30,Sul,Basic,2021-08-03,2,5,0
+C01263,Lívia Machado,57,Nordeste,Basic,2021-03-10,4,1,0
+C01264,João Costela,35,Norte,Pro,2022-01-28,1,3,0
+C01265,Bernardo Ferreira,42,Sul,Basic,2021-09-24,4,2,0
+C01266,Cauê Silveira,50,Sudeste,Enterprise,2023-12-29,3,10,0
+C01267,Benicio Gomes,64,Sul,Basic,2022-09-03,6,3,0
+C01268,Mariah Cavalcante,57,Centro-Oeste,Pro,2023-10-06,0,4,0
+C01269,Sabrina Garcia,60,Nordeste,Basic,2023-08-20,3,6,0
+C01270,Dr. Carlos Eduardo Mendes,29,Nordeste,Basic,2022-12-29,1,8,0
+C01271,Heloisa Castro,61,Sul,Basic,2022-11-04,1,10,1
+C01272,Ana Sophia Andrade,53,Norte,Pro,2022-02-27,2,1,1
+C01273,Antônio Dias,65,Sudeste,Pro,2021-04-25,2,7,0
+C01274,Cauã Barbosa,21,Nordeste,Pro,2021-08-08,1,2,0
+C01275,Sr. Marcos Vinicius Castro,22,Centro-Oeste,Basic,2021-01-31,2,8,0
+C01276,Srta. Ayla Fernandes,54,Centro-Oeste,Pro,2022-09-09,3,9,0
+C01277,Rafaela Santos,25,Norte,Pro,2022-06-23,2,3,0
+C01278,Pedro Rezende,59,Nordeste,Pro,2023-01-09,2,2,0
+C01279,Pedro Henrique Castro,66,Sul,Basic,2023-10-23,4,9,0
+C01280,Carlos Eduardo Farias,45,Centro-Oeste,Pro,2023-05-21,1,5,1
+C01281,Gabriel Jesus,48,Norte,Pro,2021-04-11,0,9,0
+C01282,Dra. Ágatha da Luz,26,Nordeste,Basic,2023-12-18,3,8,0
+C01283,Larissa da Rosa,68,Nordeste,Pro,2022-11-23,2,6,0
+C01284,Calebe Aragão,46,Nordeste,Pro,2023-07-30,5,3,0
+C01285,Rebeca Cassiano,31,Nordeste,Basic,2021-12-07,3,2,0
+C01286,Luiz Miguel Abreu,57,Nordeste,Basic,2023-05-11,7,9,0
+C01287,Aurora da Rocha,58,Centro-Oeste,Basic,2023-11-10,1,3,0
+C01288,Pietra Costa,39,Norte,Pro,2021-02-07,4,2,0
+C01289,Apollo Costela,28,Nordeste,Pro,2022-10-22,1,2,0
+C01290,João Vitor Barros,40,Sudeste,Basic,2023-07-17,2,8,0
+C01291,Bruna das Neves,18,Sudeste,Pro,2023-11-16,4,3,0
+C01292,Olivia Mendonça,63,Norte,Enterprise,2022-03-30,2,8,1
+C01293,Julia Borges,54,Sul,Basic,2023-01-07,0,9,0
+C01294,Ísis Gomes,38,Sul,Enterprise,2023-03-30,2,4,0
+C01295,Léo Garcia,43,Sul,Enterprise,2023-02-12,2,6,1
+C01296,Sr. Pietro Aparecida,63,Sudeste,Pro,2021-01-13,0,4,0
+C01297,Pedro Lucas Martins,53,Sul,Pro,2023-07-04,1,0,0
+C01298,Henry Gabriel da Mata,40,Centro-Oeste,Enterprise,2023-07-10,3,1,0
+C01299,Ana Liz Cassiano,18,Nordeste,Pro,2023-04-05,0,10,0
+C01300,Dra. Aylla Barros,68,Sudeste,Basic,2022-01-06,1,4,0
+C01301,Manuella Nogueira,57,Norte,Pro,2021-11-28,1,5,0
+C01302,Heloísa Novaes,32,Norte,Pro,2021-09-18,2,6,1
+C01303,Mathias Moreira,38,Nordeste,Pro,2022-11-28,0,1,0
+C01304,Zoe Rodrigues,64,Sudeste,Basic,2022-11-18,0,9,0
+C01305,Isabela Melo,26,Sul,Pro,2023-08-08,0,8,0
+C01306,Bruno Gonçalves,26,Sul,Basic,2022-01-22,3,5,0
+C01307,Srta. Sarah Oliveira,27,Centro-Oeste,Enterprise,2023-04-01,3,1,0
+C01308,Clara Campos,69,Centro-Oeste,Basic,2022-04-13,0,1,0
+C01309,Emanuella Cavalcante,43,Sul,Basic,2021-03-10,2,2,0
+C01310,Gael Cardoso,58,Norte,Basic,2021-07-19,3,0,0
+C01311,Otávio Barros,52,Norte,Basic,2021-08-04,5,8,1
+C01312,Maya Costa,69,Centro-Oeste,Pro,2021-07-31,3,9,1
+C01313,Clara Peixoto,42,Nordeste,Enterprise,2022-05-23,1,10,0
+C01314,Liam Siqueira,43,Sul,Pro,2021-01-16,3,3,0
+C01315,Caio Gomes,28,Centro-Oeste,Basic,2023-06-03,2,4,0
+C01316,Maria Laura Novaes,55,Centro-Oeste,Basic,2021-11-28,0,6,1
+C01317,Dr. Vicente Marques,19,Sul,Pro,2022-12-18,2,0,0
+C01318,Vicente Viana,24,Sul,Enterprise,2022-07-05,4,2,0
+C01319,Brenda Leão,35,Norte,Basic,2023-07-31,3,2,1
+C01320,Diogo Nunes,44,Nordeste,Basic,2021-09-13,2,1,0
+C01321,Beatriz Caldeira,51,Nordeste,Basic,2023-09-19,3,7,1
+C01322,Beatriz Viana,44,Sul,Enterprise,2022-12-29,3,4,0
+C01323,Vitor Gabriel Ferreira,34,Sudeste,Pro,2023-05-30,1,0,0
+C01324,Julia Gomes,60,Centro-Oeste,Basic,2023-03-26,1,1,0
+C01325,Raquel Oliveira,61,Centro-Oeste,Basic,2022-10-11,5,0,1
+C01326,Olívia Andrade,68,Sul,Enterprise,2023-09-27,2,5,0
+C01327,João Guilherme Guerra,41,Sudeste,Basic,2022-04-16,4,8,0
+C01328,Murilo Andrade,42,Norte,Basic,2022-11-21,4,10,0
+C01329,Luísa Sales,24,Sul,Pro,2022-12-01,2,6,1
+C01330,Benicio Souza,69,Sul,Basic,2022-05-22,2,4,0
+C01331,Juliana Freitas,23,Centro-Oeste,Basic,2023-09-19,3,2,0
+C01332,Lucca Vieira,41,Sul,Pro,2023-10-07,4,7,1
+C01333,Leonardo da Mota,50,Sul,Enterprise,2023-03-15,1,9,1
+C01334,Beatriz da Conceição,66,Sul,Pro,2023-04-11,2,3,0
+C01335,Kaique Souza,46,Centro-Oeste,Enterprise,2021-08-02,1,8,0
+C01336,Luna da Mata,60,Norte,Pro,2021-06-18,6,4,0
+C01337,Sra. Aurora Correia,39,Norte,Pro,2023-09-05,2,5,0
+C01338,Hadassa Jesus,43,Sul,Basic,2021-05-26,2,4,0
+C01339,Sra. Stella Freitas,45,Centro-Oeste,Pro,2022-05-31,1,9,0
+C01340,Théo Vieira,67,Norte,Enterprise,2022-03-29,4,10,0
+C01341,Benício das Neves,38,Norte,Basic,2021-03-01,2,6,0
+C01342,Dra. Maria Luiza Carvalho,66,Norte,Basic,2022-06-12,3,6,0
+C01343,Ana Cavalcanti,24,Centro-Oeste,Basic,2023-10-21,1,0,0
+C01344,Guilherme Araújo,34,Centro-Oeste,Basic,2022-04-19,4,1,0
+C01345,Arthur Gabriel Marques,37,Sul,Basic,2023-01-27,4,6,1
+C01346,Luiz Miguel Santos,58,Nordeste,Pro,2023-02-21,0,7,0
+C01347,João Guilherme Freitas,66,Norte,Enterprise,2022-03-09,8,3,0
+C01348,Sofia Gonçalves,37,Nordeste,Basic,2022-02-05,3,5,0
+C01349,Camila Rodrigues,39,Centro-Oeste,Basic,2021-02-26,2,10,0
+C01350,Isaque Freitas,45,Centro-Oeste,Basic,2023-09-30,3,9,1
+C01351,Melissa Cavalcanti,57,Centro-Oeste,Enterprise,2021-07-05,0,2,0
+C01352,Marcela Ferreira,66,Nordeste,Basic,2022-02-02,2,6,0
+C01353,José Pedro Souza,24,Centro-Oeste,Basic,2022-08-28,2,10,0
+C01354,Srta. Larissa Alves,18,Sul,Basic,2023-02-27,1,2,1
+C01355,Ana Julia Castro,49,Centro-Oeste,Basic,2021-06-07,3,10,0
+C01356,Hadassa Câmara,30,Sudeste,Basic,2022-08-12,2,6,0
+C01357,Heloisa Rocha,47,Nordeste,Enterprise,2022-04-11,2,10,0
+C01358,João Felipe Rezende,40,Sudeste,Pro,2022-03-22,2,10,0
+C01359,Sophie Almeida,68,Centro-Oeste,Pro,2023-03-12,3,7,0
+C01360,Alexia Melo,36,Sul,Basic,2023-07-18,3,2,0
+C01361,Erick Peixoto,49,Norte,Pro,2021-01-17,3,1,0
+C01362,Henry Gabriel da Cunha,47,Centro-Oeste,Pro,2023-01-01,1,5,0
+C01363,Lorena Silva,46,Sul,Basic,2021-11-22,2,3,0
+C01364,Dra. Kamilly Lima,66,Nordeste,Pro,2023-09-22,3,7,0
+C01365,Marcela Marques,62,Sudeste,Basic,2022-09-05,0,1,0
+C01366,Henrique Martins,46,Sudeste,Pro,2022-06-30,3,3,0
+C01367,Vicente Pinto,47,Sudeste,Basic,2022-08-19,1,1,0
+C01368,Bella Abreu,33,Nordeste,Enterprise,2023-07-10,1,1,1
+C01369,Maria Fernanda Novais,57,Sul,Basic,2023-04-22,0,1,0
+C01370,Larissa da Rosa,36,Nordeste,Pro,2021-12-10,2,0,0
+C01371,Bianca Mendes,35,Sudeste,Pro,2023-05-09,3,3,0
+C01372,Lucca da Mota,18,Centro-Oeste,Pro,2022-03-21,2,1,0
+C01373,Lunna da Mota,31,Norte,Basic,2021-08-10,4,8,0
+C01374,Kaique Correia,68,Nordeste,Basic,2022-08-15,1,8,0
+C01375,Valentim Teixeira,64,Nordeste,Pro,2023-10-28,2,10,0
+C01376,Benjamin Peixoto,67,Sul,Basic,2023-10-15,1,10,1
+C01377,Luiza Rodrigues,19,Sul,Basic,2021-01-16,2,6,0
+C01378,Apollo Rezende,45,Nordeste,Pro,2022-06-08,4,5,0
+C01379,Laís da Luz,66,Sudeste,Pro,2023-03-14,0,2,1
+C01380,Maria Luiza Gomes,67,Norte,Basic,2021-01-21,3,6,0
+C01381,Srta. Esther Fernandes,47,Sul,Basic,2021-08-16,1,0,1
+C01382,Dra. Hellena Rodrigues,55,Sudeste,Basic,2023-10-05,2,8,0
+C01383,Olívia Rios,68,Centro-Oeste,Pro,2023-03-20,1,3,0
+C01384,Dr. Enzo Gabriel Ribeiro,21,Sul,Pro,2022-02-08,2,5,0
+C01385,Emilly da Rocha,18,Sudeste,Pro,2023-12-26,3,5,1
+C01386,Ravy Cardoso,25,Sudeste,Enterprise,2022-03-13,3,10,1
+C01387,Sra. Emilly Rodrigues,46,Norte,Basic,2023-04-09,1,2,0
+C01388,Sr. Henry Fogaça,56,Norte,Basic,2023-07-23,1,3,0
+C01389,Leandro Leão,20,Centro-Oeste,Basic,2021-09-16,3,10,0
+C01390,Dr. José Pedro Pacheco,49,Sudeste,Basic,2021-04-13,5,9,0
+C01391,Ravi Campos,27,Sudeste,Enterprise,2023-09-20,1,2,1
+C01392,Ana Júlia Porto,27,Norte,Pro,2023-02-08,3,5,0
+C01393,Ana Sophia Melo,36,Sul,Basic,2023-03-24,1,0,0
+C01394,Theodoro Campos,63,Sul,Basic,2021-08-14,1,7,1
+C01395,Maria Helena Moura,51,Nordeste,Pro,2023-08-01,2,7,1
+C01396,Noah Aragão,50,Norte,Pro,2022-04-08,0,8,0
+C01397,Davi Miguel Costa,40,Nordeste,Basic,2021-08-25,2,5,0
+C01398,Dr. Raul Casa Grande,45,Norte,Enterprise,2023-11-16,2,0,1
+C01399,Sr. Bruno Mendonça,49,Centro-Oeste,Pro,2022-05-21,1,2,0
+C01400,Sr. Levi Porto,67,Sudeste,Basic,2023-03-25,4,0,0
+C01401,André Machado,24,Centro-Oeste,Enterprise,2023-02-06,5,4,0
+C01402,Gustavo Henrique Teixeira,46,Norte,Basic,2022-09-26,2,2,1
+C01403,Emanuel Mendonça,25,Sudeste,Enterprise,2023-09-18,1,1,0
+C01404,Davi Lucca Pimenta,18,Sul,Enterprise,2022-09-10,2,2,0
+C01405,Mariane Guerra,20,Sul,Pro,2021-09-30,3,8,0
+C01406,Pietra Gomes,41,Nordeste,Pro,2021-08-20,0,10,1
+C01407,Arthur Miguel Nascimento,40,Norte,Basic,2023-02-07,1,7,0
+C01408,Marcelo Albuquerque,25,Norte,Enterprise,2022-05-11,5,2,0
+C01409,Sr. Antony Rocha,64,Sul,Pro,2023-11-14,3,10,0
+C01410,Josué Câmara,54,Centro-Oeste,Pro,2022-05-17,0,1,1
+C01411,Sra. Luana Cardoso,20,Sudeste,Enterprise,2021-01-25,4,4,1
+C01412,Matheus Montenegro,68,Centro-Oeste,Enterprise,2021-10-15,2,0,0
+C01413,Lorena Cavalcante,50,Centro-Oeste,Pro,2021-12-04,2,3,1
+C01414,Augusto da Rosa,45,Sul,Basic,2023-11-27,1,7,0
+C01415,Rafael Siqueira,64,Sul,Enterprise,2021-05-17,4,0,0
+C01416,Valentina Fernandes,25,Sul,Pro,2022-05-23,1,4,1
+C01417,Catarina Fernandes,51,Nordeste,Enterprise,2021-08-15,1,3,1
+C01418,Maria Alice Sá,52,Centro-Oeste,Pro,2021-11-16,3,5,0
+C01419,Enzo Guerra,49,Norte,Basic,2023-07-05,2,6,0
+C01420,Ian Câmara,41,Sudeste,Basic,2021-03-27,2,8,0
+C01421,Srta. Hadassa Siqueira,31,Nordeste,Pro,2023-07-15,1,0,0
+C01422,Thiago Cavalcante,49,Norte,Pro,2021-02-22,2,10,0
+C01423,Luiz Otávio Silva,63,Centro-Oeste,Basic,2023-05-10,2,9,1
+C01424,Ana Carolina Garcia,60,Sul,Pro,2023-05-17,1,3,0
+C01425,Jade Vargas,33,Centro-Oeste,Basic,2022-03-09,2,5,0
+C01426,Ana Julia Peixoto,21,Sudeste,Pro,2023-09-26,1,9,0
+C01427,Cauê Rezende,69,Nordeste,Basic,2021-04-10,3,6,0
+C01428,Benicio Sales,54,Nordeste,Basic,2023-09-17,0,6,0
+C01429,Oliver Macedo,38,Sudeste,Basic,2022-08-22,1,7,0
+C01430,Camila Novaes,31,Norte,Basic,2022-02-07,2,9,0
+C01431,Renan Sampaio,48,Norte,Basic,2022-01-31,3,7,0
+C01432,Gustavo Sales,65,Nordeste,Basic,2022-02-19,3,7,0
+C01433,Alexia da Rosa,35,Nordeste,Basic,2023-07-28,0,7,0
+C01434,Beatriz Ribeiro,24,Sul,Enterprise,2022-11-08,1,7,0
+C01435,Júlia Pinto,27,Norte,Enterprise,2022-04-08,2,5,0
+C01436,Cecilia Leão,24,Sudeste,Basic,2022-06-25,0,8,1
+C01437,Thomas Silveira,50,Norte,Enterprise,2021-03-25,2,2,0
+C01438,Bárbara da Paz,40,Sul,Basic,2021-09-28,3,5,0
+C01439,Cauê Monteiro,38,Nordeste,Pro,2021-09-01,2,4,0
+C01440,Guilherme Vasconcelos,36,Nordeste,Pro,2022-01-23,4,7,0
+C01441,Vicente Costa,65,Sul,Basic,2021-08-02,2,3,0
+C01442,Dr. Juan Castro,36,Sudeste,Basic,2023-03-29,2,3,0
+C01443,Yan Monteiro,53,Nordeste,Basic,2021-02-28,0,9,0
+C01444,Rodrigo Farias,46,Centro-Oeste,Basic,2023-06-02,0,10,0
+C01445,Alexandre Albuquerque,35,Nordeste,Pro,2023-04-23,2,9,0
+C01446,Aurora Camargo,19,Centro-Oeste,Basic,2023-07-13,1,4,0
+C01447,Sabrina Cassiano,18,Sul,Basic,2021-05-03,1,10,1
+C01448,Thomas Barbosa,64,Sul,Basic,2022-03-15,3,5,0
+C01449,Dra. Beatriz da Cunha,22,Nordeste,Basic,2023-10-19,2,10,0
+C01450,Isabel Marques,37,Norte,Pro,2022-07-16,4,3,0
+C01451,João Martins,28,Centro-Oeste,Basic,2021-04-28,3,1,1
+C01452,Carlos Eduardo Cavalcanti,59,Sudeste,Enterprise,2023-06-24,2,1,0
+C01453,João Vitor Fonseca,19,Nordeste,Basic,2022-01-30,1,2,0
+C01454,Luara Lima,20,Sudeste,Basic,2023-05-26,1,1,0
+C01455,Srta. Aylla Teixeira,40,Nordeste,Pro,2023-07-24,2,0,0
+C01456,Anthony Carvalho,29,Norte,Basic,2023-08-10,5,7,1
+C01457,Eloá Farias,37,Norte,Pro,2021-03-16,4,4,1
+C01458,Dr. João Felipe Siqueira,22,Norte,Pro,2021-10-22,1,9,0
+C01459,Marcelo Fernandes,54,Norte,Basic,2021-01-21,0,0,0
+C01460,Danilo Guerra,55,Sul,Basic,2023-11-05,0,8,0
+C01461,Mirella da Mata,47,Sul,Basic,2022-07-14,5,7,0
+C01462,Pietra Leão,26,Centro-Oeste,Basic,2022-01-07,4,3,0
+C01463,Eloah Camargo,51,Sudeste,Basic,2023-03-29,2,7,0
+C01464,Bento Castro,61,Nordeste,Basic,2023-12-29,2,9,0
+C01465,Oliver Pastor,52,Nordeste,Basic,2023-04-26,4,6,1
+C01466,Maysa Cirino,69,Sul,Pro,2022-06-05,3,10,0
+C01467,Maria Helena Vasconcelos,39,Nordeste,Pro,2022-01-06,6,10,1
+C01468,Sr. Davi Lucca Mendes,61,Sul,Pro,2021-04-11,0,6,1
+C01469,Brenda Jesus,41,Centro-Oeste,Basic,2022-10-23,3,0,0
+C01470,Ana Clara Azevedo,34,Sudeste,Basic,2023-08-26,1,5,0
+C01471,Levi Albuquerque,27,Centro-Oeste,Enterprise,2021-08-31,1,3,1
+C01472,Dra. Valentina Vargas,47,Norte,Pro,2023-01-23,1,9,1
+C01473,Dra. Heloisa Rios,63,Norte,Enterprise,2022-05-27,5,9,0
+C01474,Sr. Pedro Ribeiro,40,Norte,Basic,2023-04-29,6,9,0
+C01475,Srta. Rafaela Ferreira,49,Centro-Oeste,Pro,2022-07-09,1,10,0
+C01476,Maria Isis Cassiano,34,Nordeste,Pro,2021-08-14,2,1,1
+C01477,Ana Júlia Albuquerque,67,Sudeste,Basic,2021-08-02,0,9,1
+C01478,Eduarda Montenegro,68,Norte,Basic,2022-12-19,0,6,1
+C01479,Sabrina Cavalcante,34,Norte,Pro,2021-03-08,4,8,1
+C01480,Samuel Duarte,31,Norte,Basic,2022-01-31,2,4,0
+C01481,Lucas da Mota,26,Sudeste,Basic,2022-09-04,1,7,0
+C01482,Thiago Câmara,57,Norte,Pro,2023-11-02,2,4,0
+C01483,Maria Flor Guerra,19,Sudeste,Enterprise,2023-02-09,0,6,0
+C01484,Bruno Marques,62,Norte,Basic,2022-02-11,0,6,0
+C01485,Melissa Borges,42,Centro-Oeste,Basic,2023-07-14,2,8,1
+C01486,Melissa Dias,56,Centro-Oeste,Basic,2022-10-09,2,2,1
+C01487,Theo Souza,26,Sudeste,Pro,2021-08-10,0,0,0
+C01488,Allana Caldeira,39,Centro-Oeste,Basic,2022-10-16,2,1,0
+C01489,Maria Sophia Andrade,60,Sudeste,Enterprise,2022-03-04,1,5,0
+C01490,Agatha Borges,63,Centro-Oeste,Basic,2023-09-04,3,9,0
+C01491,Liz Moraes,21,Centro-Oeste,Basic,2023-10-03,4,9,0
+C01492,Gabrielly Rezende,43,Sudeste,Pro,2022-01-06,4,8,0
+C01493,Mirella Fernandes,46,Nordeste,Pro,2023-04-30,2,2,1
+C01494,Sr. Henry Gabriel Marques,62,Centro-Oeste,Basic,2023-05-06,4,9,0
+C01495,Dr. Luiz Otávio Silva,51,Norte,Basic,2021-08-17,4,1,0
+C01496,Bruna Brito,40,Nordeste,Enterprise,2021-10-07,2,10,0
+C01497,Hellena Abreu,54,Sudeste,Basic,2023-12-07,2,0,0
+C01498,Dr. João Vitor Novaes,28,Nordeste,Enterprise,2023-09-02,0,1,0
+C01499,Maria Fernanda Sampaio,23,Sul,Basic,2023-01-28,4,2,0
+C01500,Augusto Cavalcante,35,Sul,Pro,2023-11-14,3,6,1
+C01501,Cecilia Silva,38,Centro-Oeste,Pro,2021-11-17,2,1,0
+C01502,Dra. Maria Luísa Caldeira,59,Centro-Oeste,Basic,2021-10-01,3,4,1
+C01503,Gael Henrique Correia,53,Norte,Enterprise,2022-07-10,3,1,0
+C01504,Matteo Cunha,58,Nordeste,Basic,2023-04-24,2,6,0
+C01505,Esther Silva,55,Sul,Basic,2022-10-30,6,9,0
+C01506,Sr. Oliver Aparecida,51,Centro-Oeste,Pro,2023-09-27,1,7,1
+C01507,Camila Vargas,34,Nordeste,Basic,2022-01-15,2,7,0
+C01508,Natália Ribeiro,54,Centro-Oeste,Pro,2022-12-12,2,7,0
+C01509,Sofia Carvalho,42,Centro-Oeste,Basic,2023-01-16,2,9,0
+C01510,Alana Moura,55,Sul,Basic,2022-11-06,3,8,0
+C01511,Srta. Marina Pacheco,29,Sul,Basic,2021-04-26,2,0,1
+C01512,Sophia Vasconcelos,40,Centro-Oeste,Basic,2022-08-28,3,0,0
+C01513,Erick Siqueira,59,Sudeste,Basic,2023-12-02,1,9,0
+C01514,Cauã Gomes,39,Centro-Oeste,Pro,2022-01-14,1,1,0
+C01515,Luna Montenegro,38,Centro-Oeste,Enterprise,2022-04-11,0,10,1
+C01516,Mariah Pereira,44,Norte,Pro,2021-10-07,6,5,0
+C01517,Srta. Kamilly Gonçalves,48,Norte,Basic,2022-09-10,2,0,0
+C01518,Dr. Rael Carvalho,23,Norte,Basic,2021-04-28,6,4,0
+C01519,Noah Pereira,44,Sudeste,Basic,2021-11-05,2,4,1
+C01520,Dra. Sophie da Rosa,57,Sudeste,Basic,2021-04-10,1,3,0
+C01521,Dra. Luara Silva,51,Centro-Oeste,Pro,2021-09-18,1,10,0
+C01522,Dra. Helena Costa,29,Norte,Basic,2023-09-20,0,4,1
+C01523,João Vitor Rodrigues,62,Sudeste,Basic,2021-10-13,2,0,0
+C01524,Sr. Felipe Montenegro,24,Sul,Enterprise,2021-11-24,2,10,0
+C01525,Luna Santos,27,Centro-Oeste,Basic,2021-03-04,5,10,0
+C01526,Luiz Gustavo Novais,62,Nordeste,Basic,2022-11-18,1,5,0
+C01527,Maria Vitória Rocha,34,Centro-Oeste,Basic,2023-01-08,1,6,0
+C01528,Dra. Laura Lima,43,Nordeste,Basic,2023-10-28,2,7,1
+C01529,Vicente Caldeira,38,Norte,Enterprise,2022-10-01,2,1,0
+C01530,Mateus Casa Grande,45,Nordeste,Basic,2023-07-25,2,6,0
+C01531,Benjamin Costa,63,Norte,Basic,2022-04-21,0,5,1
+C01532,Enrico da Paz,19,Sul,Basic,2021-02-22,3,8,1
+C01533,Isis Casa Grande,60,Nordeste,Basic,2023-01-24,3,7,0
+C01534,Juan Costela,18,Centro-Oeste,Basic,2022-05-01,3,10,0
+C01535,Ana Beatriz Fogaça,68,Norte,Pro,2022-02-13,1,3,0
+C01536,Bella Pimenta,53,Centro-Oeste,Pro,2023-10-28,3,8,0
+C01537,Heloisa Souza,68,Sudeste,Pro,2022-10-30,1,0,0
+C01538,Maria Julia da Costa,43,Norte,Basic,2023-04-15,2,10,0
+C01539,Laura Sales,46,Nordeste,Pro,2023-05-26,2,5,0
+C01540,Ana Julia Garcia,38,Norte,Pro,2022-01-02,1,7,0
+C01541,Maria Vitória Viana,28,Centro-Oeste,Basic,2023-09-29,5,10,0
+C01542,Luara Novaes,57,Sul,Pro,2021-09-07,1,10,0
+C01543,Anthony Gabriel Souza,28,Norte,Basic,2022-01-15,2,3,0
+C01544,Guilherme Pinto,53,Nordeste,Basic,2023-05-22,1,1,0
+C01545,Heloisa Porto,66,Sudeste,Pro,2023-04-15,4,10,0
+C01546,Dra. Maria Eduarda Sá,56,Sul,Basic,2023-02-14,2,1,0
+C01547,Ísis Sousa,57,Sudeste,Pro,2023-07-08,1,9,0
+C01548,Fernanda Vasconcelos,52,Norte,Basic,2022-03-31,1,0,1
+C01549,Srta. Laís Machado,51,Centro-Oeste,Enterprise,2022-01-01,1,4,0
+C01550,Breno Cirino,64,Centro-Oeste,Enterprise,2022-02-07,3,5,0
+C01551,Théo Campos,41,Nordeste,Enterprise,2021-02-27,1,3,0
+C01552,Ana Cecília Lima,39,Centro-Oeste,Basic,2022-06-05,1,3,0
+C01553,João Cardoso,22,Sul,Basic,2021-07-29,3,4,0
+C01554,José Miguel Abreu,50,Centro-Oeste,Basic,2023-12-01,3,4,0
+C01555,Dr. Eduardo Aparecida,53,Nordeste,Basic,2023-03-27,2,8,0
+C01556,Lorenzo Peixoto,64,Norte,Basic,2021-06-22,0,7,0
+C01557,Kevin Mendonça,37,Norte,Pro,2021-08-22,1,8,1
+C01558,Maria Alice Barbosa,36,Centro-Oeste,Pro,2023-03-04,2,2,0
+C01559,Sra. Valentina Câmara,52,Sudeste,Enterprise,2023-03-04,1,2,0
+C01560,Vicente Azevedo,69,Norte,Basic,2023-11-29,0,0,0
+C01561,Eduarda Leão,60,Centro-Oeste,Basic,2021-04-29,0,9,1
+C01562,Zoe Guerra,34,Nordeste,Basic,2021-12-01,0,5,1
+C01563,Luiz Fernando Câmara,62,Centro-Oeste,Enterprise,2021-11-20,2,3,0
+C01564,Lucas Farias,60,Norte,Pro,2023-10-08,0,10,0
+C01565,Dr. Henrique Sá,51,Nordeste,Pro,2021-10-11,0,7,0
+C01566,Vitória Melo,26,Centro-Oeste,Enterprise,2021-08-01,5,1,0
+C01567,Alexia Camargo,43,Sul,Pro,2023-07-18,3,10,0
+C01568,Manuella Machado,19,Nordeste,Basic,2023-01-22,1,1,0
+C01569,Joaquim Aparecida,26,Sul,Basic,2021-12-05,0,6,1
+C01570,Luna Garcia,26,Sudeste,Pro,2023-11-12,2,4,0
+C01571,Matheus da Cunha,57,Nordeste,Basic,2021-04-15,0,0,1
+C01572,Larissa Alves,34,Sul,Basic,2023-02-09,1,6,0
+C01573,Maria Fernanda Moraes,18,Norte,Enterprise,2022-12-17,1,6,0
+C01574,Melissa Mendonça,42,Norte,Enterprise,2023-02-02,2,9,0
+C01575,Juan Rezende,60,Sudeste,Pro,2022-01-14,2,5,0
+C01576,Lorenzo Moraes,57,Nordeste,Pro,2022-12-14,3,3,0
+C01577,Calebe Cavalcante,59,Nordeste,Pro,2021-08-13,2,7,0
+C01578,Yasmin Abreu,42,Nordeste,Basic,2023-01-08,2,10,1
+C01579,Ana Luiza Costela,56,Sudeste,Basic,2021-08-24,2,1,0
+C01580,Hadassa Rodrigues,52,Nordeste,Pro,2021-07-02,0,1,0
+C01581,Bella Costela,20,Norte,Pro,2022-12-13,2,1,0
+C01582,Maya Ramos,67,Sul,Basic,2022-03-20,0,2,1
+C01583,Eduardo Alves,54,Norte,Enterprise,2022-09-15,0,5,0
+C01584,Luísa Andrade,61,Norte,Basic,2023-10-27,4,0,0
+C01585,Brayan Aragão,61,Sul,Basic,2023-01-19,2,10,0
+C01586,José Novais,68,Norte,Pro,2021-06-04,3,1,0
+C01587,Ian da Luz,47,Sudeste,Basic,2021-09-14,4,9,1
+C01588,Maria Julia Machado,55,Sul,Basic,2021-08-23,4,1,0
+C01589,Maria Luiza Lopes,51,Norte,Basic,2022-05-15,1,0,0
+C01590,Sr. Mathias Rocha,29,Centro-Oeste,Pro,2021-10-16,3,2,0
+C01591,Vitor Abreu,36,Norte,Basic,2022-05-25,1,9,0
+C01592,Ana Luiza Sá,54,Sudeste,Pro,2022-12-10,3,6,0
+C01593,Dra. Ana Clara Sampaio,61,Nordeste,Pro,2023-02-24,1,0,0
+C01594,Luiz Henrique Montenegro,66,Norte,Basic,2023-06-13,2,6,0
+C01595,João Vitor Viana,34,Nordeste,Enterprise,2023-02-15,3,4,0
+C01596,Liz Pereira,27,Centro-Oeste,Basic,2021-10-25,1,8,0
+C01597,João Miguel Teixeira,66,Norte,Enterprise,2021-05-17,4,1,0
+C01598,Maria Helena Gonçalves,64,Sul,Pro,2022-01-11,2,0,0
+C01599,Ana Melo,29,Nordeste,Enterprise,2021-03-28,0,8,0
+C01600,Vitor Câmara,33,Centro-Oeste,Basic,2022-03-13,1,7,1
+C01601,Matteo Vieira,41,Sul,Basic,2023-02-03,0,9,0
+C01602,Laís Porto,36,Sul,Basic,2022-12-03,1,5,0
+C01603,Kaique Rocha,25,Sul,Basic,2023-07-31,4,4,0
+C01604,Dra. Maria Fernanda Albuquerque,48,Sul,Pro,2021-06-01,2,7,1
+C01605,Cecília Campos,38,Norte,Basic,2023-10-29,2,7,1
+C01606,André Oliveira,34,Norte,Pro,2023-03-18,1,4,0
+C01607,Maria Júlia Nascimento,40,Norte,Basic,2021-08-23,1,6,0
+C01608,Antonella das Neves,54,Centro-Oeste,Basic,2022-11-06,4,0,0
+C01609,Luiz Felipe Cunha,33,Centro-Oeste,Pro,2022-07-15,4,3,0
+C01610,Sophie Casa Grande,23,Centro-Oeste,Basic,2021-02-07,1,1,0
+C01611,Francisco Câmara,25,Sudeste,Pro,2023-04-02,4,9,0
+C01612,Isis Correia,42,Centro-Oeste,Pro,2022-02-25,0,2,1
+C01613,Fernando Rios,35,Norte,Pro,2021-12-14,2,0,0
+C01614,Ana Júlia Sá,42,Norte,Basic,2023-01-18,0,10,0
+C01615,Nicole Ramos,29,Sudeste,Pro,2021-09-30,2,10,0
+C01616,Ana Sophia da Rocha,32,Sudeste,Enterprise,2021-11-04,1,1,0
+C01617,Ana Lívia da Cunha,43,Centro-Oeste,Pro,2023-09-03,3,0,1
+C01618,Gael Henrique Silveira,58,Nordeste,Basic,2023-01-03,3,7,0
+C01619,Raquel Farias,62,Sudeste,Pro,2023-10-30,0,3,0
+C01620,Sr. Isaac Brito,43,Sul,Pro,2022-03-20,2,2,0
+C01621,Bernardo Correia,64,Norte,Pro,2022-02-09,0,0,0
+C01622,Dr. Rael Farias,49,Sul,Basic,2023-05-03,2,1,0
+C01623,Lorena Sales,27,Norte,Basic,2023-02-17,1,2,1
+C01624,Daniela Nunes,33,Norte,Pro,2021-04-25,3,2,0
+C01625,Maria Clara Dias,24,Sudeste,Basic,2021-03-06,2,5,0
+C01626,Eloá Abreu,34,Sudeste,Pro,2023-04-05,1,9,1
+C01627,Sr. Henry Silva,40,Sul,Basic,2021-08-27,2,7,0
+C01628,Dra. Maya da Mota,43,Norte,Pro,2021-10-29,3,5,0
+C01629,Sr. Lucas Mendes,38,Sul,Basic,2023-08-27,3,1,0
+C01630,Melissa Fogaça,39,Nordeste,Basic,2022-01-04,0,1,0
+C01631,Ryan Novaes,24,Sul,Enterprise,2021-08-21,1,6,1
+C01632,Erick Ramos,31,Centro-Oeste,Enterprise,2021-07-14,4,0,0
+C01633,Anna Liz da Mota,32,Sul,Pro,2023-06-26,3,0,0
+C01634,Vitor Gabriel Costa,24,Centro-Oeste,Basic,2023-11-02,1,6,0
+C01635,Breno Siqueira,26,Centro-Oeste,Pro,2023-07-10,0,8,0
+C01636,Antony Montenegro,68,Centro-Oeste,Pro,2022-11-20,4,4,0
+C01637,Ana Pacheco,65,Nordeste,Pro,2021-06-26,1,10,0
+C01638,Maria Luiza Vargas,25,Sul,Basic,2021-08-05,3,0,1
+C01639,Hadassa Andrade,67,Sul,Pro,2023-11-01,1,4,0
+C01640,Joana Nogueira,40,Nordeste,Pro,2022-09-22,2,10,0
+C01641,Olivia Rezende,46,Norte,Enterprise,2021-06-13,4,0,0
+C01642,Luiz Otávio Gonçalves,35,Sudeste,Basic,2021-02-22,1,9,0
+C01643,João Vitor Carvalho,48,Sul,Pro,2021-08-06,4,8,0
+C01644,Sarah Moraes,47,Sudeste,Pro,2023-09-26,2,3,0
+C01645,Miguel Fonseca,69,Nordeste,Basic,2023-04-04,3,8,0
+C01646,Alexia Ribeiro,56,Norte,Basic,2022-01-20,4,1,0
+C01647,Enzo Sá,52,Norte,Basic,2021-02-25,5,6,0
+C01648,Cecilia Machado,35,Norte,Basic,2021-04-28,1,1,0
+C01649,Felipe Nunes,59,Nordeste,Basic,2023-06-19,2,3,0
+C01650,Clara Sousa,56,Centro-Oeste,Pro,2023-03-09,3,5,1
+C01651,Sra. Maria Alice Aparecida,34,Centro-Oeste,Pro,2023-02-19,0,1,0
+C01652,Ryan da Conceição,31,Sudeste,Pro,2023-10-13,1,1,1
+C01653,João Freitas,48,Centro-Oeste,Enterprise,2023-03-14,2,1,0
+C01654,Asafe Rios,41,Centro-Oeste,Basic,2023-04-25,0,2,1
+C01655,Valentim Vieira,52,Norte,Basic,2023-05-05,2,4,0
+C01656,Dr. Ravy Marques,61,Norte,Pro,2022-12-09,4,8,0
+C01657,Asafe Rezende,62,Sudeste,Basic,2021-01-22,3,5,1
+C01658,Sr. Vicente Porto,51,Sul,Basic,2023-04-23,2,8,0
+C01659,João Pacheco,20,Sudeste,Basic,2021-07-11,4,9,0
+C01660,Emanuella Garcia,54,Sudeste,Basic,2023-10-16,3,4,1
+C01661,Maria Flor Fonseca,60,Nordeste,Pro,2022-01-31,0,10,0
+C01662,Ana Vitória Moreira,57,Nordeste,Basic,2023-10-28,2,5,0
+C01663,Marcos Vinicius Câmara,43,Sudeste,Basic,2022-10-02,5,9,0
+C01664,Maria Luiza Fogaça,40,Sudeste,Basic,2023-10-16,1,7,0
+C01665,Dr. Rodrigo Pereira,61,Sudeste,Pro,2022-07-21,2,2,0
+C01666,Theodoro Carvalho,56,Centro-Oeste,Basic,2021-08-19,2,1,1
+C01667,Eloah da Conceição,32,Nordeste,Pro,2023-05-24,2,2,0
+C01668,Théo Ramos,66,Sudeste,Basic,2022-07-28,1,8,0
+C01669,Heitor Cassiano,21,Norte,Basic,2021-08-28,2,5,0
+C01670,Emanuel Fonseca,46,Norte,Pro,2021-03-31,0,9,1
+C01671,Bárbara Ribeiro,39,Centro-Oeste,Basic,2021-08-20,0,3,0
+C01672,Oliver Farias,42,Centro-Oeste,Basic,2022-04-02,0,9,1
+C01673,Srta. Rafaela Rocha,30,Sul,Basic,2021-08-21,2,2,0
+C01674,Pietra Costela,35,Sul,Enterprise,2021-12-20,5,1,0
+C01675,Elisa Ramos,50,Sul,Basic,2023-10-02,3,3,0
+C01676,Alícia da Cruz,33,Centro-Oeste,Pro,2022-03-15,4,8,0
+C01677,Davi Lucas Oliveira,62,Centro-Oeste,Basic,2021-12-11,1,3,0
+C01678,Elisa Carvalho,59,Centro-Oeste,Basic,2022-10-26,2,4,0
+C01679,Sophie Aparecida,61,Norte,Basic,2022-10-19,3,7,0
+C01680,Clara Araújo,19,Centro-Oeste,Enterprise,2021-05-10,2,1,0
+C01681,José Pedro Cirino,52,Norte,Basic,2021-05-21,3,10,0
+C01682,Maria Luiza Peixoto,59,Sul,Basic,2022-02-19,5,2,0
+C01683,Allana Silveira,51,Sul,Basic,2022-09-18,3,5,0
+C01684,Dra. Larissa Barros,47,Sul,Basic,2021-10-11,1,6,0
+C01685,Pietro Pereira,30,Sudeste,Basic,2021-08-11,2,3,0
+C01686,Rafaela Cavalcante,30,Sudeste,Pro,2023-01-14,1,0,1
+C01687,Noah Peixoto,35,Nordeste,Basic,2022-04-08,2,6,0
+C01688,Fernando Pinto,49,Nordeste,Basic,2021-12-23,1,8,0
+C01689,Sophia da Luz,49,Nordeste,Pro,2023-11-13,2,0,0
+C01690,Luigi Marques,52,Sudeste,Basic,2023-05-09,1,0,0
+C01691,Ana Lívia da Conceição,56,Sudeste,Basic,2022-10-27,3,0,0
+C01692,Maria Isis Cardoso,63,Nordeste,Basic,2023-10-12,3,9,0
+C01693,Antony Costa,69,Nordeste,Pro,2021-03-26,3,6,0
+C01694,Sofia Rodrigues,46,Centro-Oeste,Basic,2022-09-13,0,10,1
+C01695,Clarice Pereira,66,Nordeste,Basic,2023-11-21,0,8,0
+C01696,Felipe Melo,46,Centro-Oeste,Basic,2021-08-28,1,2,0
+C01697,Ana Carolina Viana,61,Norte,Pro,2021-12-29,1,7,0
+C01698,Sarah Sá,33,Sudeste,Basic,2023-04-02,4,8,0
+C01699,Caleb Mendes,61,Nordeste,Pro,2022-10-30,1,2,0
+C01700,Caroline Pereira,64,Sudeste,Pro,2021-04-09,2,2,0
+C01701,Agatha Vasconcelos,27,Sudeste,Pro,2021-02-16,1,0,1
+C01702,Marina Moreira,47,Sudeste,Basic,2023-04-19,2,1,0
+C01703,Maria Eduarda Aparecida,42,Norte,Basic,2022-02-26,0,6,1
+C01704,Dra. Mariane da Conceição,56,Sul,Basic,2021-03-03,4,2,0
+C01705,Maria Helena Ferreira,37,Nordeste,Basic,2023-10-07,2,6,0
+C01706,Beatriz Lima,22,Sul,Basic,2022-08-21,0,4,1
+C01707,José Miguel Mendes,18,Sul,Pro,2022-01-27,2,9,0
+C01708,Bryan da Paz,47,Sul,Basic,2023-09-04,3,7,0
+C01709,Ísis Jesus,66,Sudeste,Basic,2023-12-12,2,4,1
+C01710,Gabriel Abreu,20,Centro-Oeste,Pro,2022-08-26,2,2,0
+C01711,Dra. Alana Oliveira,62,Sudeste,Pro,2021-12-03,2,8,0
+C01712,Bárbara Moreira,31,Sudeste,Basic,2023-03-21,0,6,1
+C01713,Marcos Vinicius Rezende,47,Sul,Pro,2023-01-22,0,4,0
+C01714,Levi Jesus,67,Sudeste,Basic,2023-05-31,1,6,0
+C01715,Sr. Eduardo Lima,21,Sul,Pro,2022-09-27,3,10,0
+C01716,Isis da Luz,35,Centro-Oeste,Pro,2021-09-11,4,9,0
+C01717,Mariana Nunes,54,Nordeste,Pro,2021-01-20,2,8,0
+C01718,Dr. Miguel Sá,42,Sul,Pro,2022-06-12,2,4,1
+C01719,Noah Novaes,65,Centro-Oeste,Basic,2022-01-11,2,6,0
+C01720,Rafaela Cavalcanti,18,Nordeste,Basic,2021-06-15,0,10,0
+C01721,Dr. José das Neves,63,Norte,Pro,2023-05-11,0,8,1
+C01722,Manuella Vasconcelos,32,Sul,Basic,2022-09-09,0,0,0
+C01723,Sra. Cecilia Ribeiro,26,Sul,Enterprise,2022-09-04,0,3,0
+C01724,Ian Machado,32,Norte,Basic,2022-05-18,1,0,0
+C01725,Srta. Beatriz Cunha,66,Norte,Basic,2023-07-02,2,7,0
+C01726,Maria Liz Viana,41,Sul,Basic,2021-03-20,3,2,1
+C01727,Sr. Enrico Gomes,21,Norte,Basic,2022-08-08,6,1,0
+C01728,Alana Borges,29,Sudeste,Pro,2022-11-19,3,3,0
+C01729,Ravy Peixoto,54,Nordeste,Pro,2022-01-31,2,10,0
+C01730,Aurora Azevedo,54,Nordeste,Pro,2022-02-06,2,2,0
+C01731,Henry Freitas,60,Nordeste,Pro,2023-09-02,0,10,0
+C01732,Arthur Miguel Silveira,23,Sudeste,Enterprise,2021-08-12,1,4,0
+C01733,Maria Liz Pimenta,56,Norte,Pro,2022-06-02,2,7,0
+C01734,Stephany da Paz,63,Centro-Oeste,Basic,2022-09-26,1,9,1
+C01735,Dra. Ana Laura Vasconcelos,41,Norte,Pro,2021-08-24,1,7,0
+C01736,Thales Macedo,28,Sul,Basic,2021-04-26,0,10,0
+C01737,Guilherme Ribeiro,30,Nordeste,Basic,2021-08-14,0,6,1
+C01738,Laura Correia,51,Norte,Pro,2021-08-18,3,7,0
+C01739,Thomas Moreira,42,Centro-Oeste,Basic,2021-07-01,1,4,0
+C01740,Srta. Eloá Rocha,24,Sul,Basic,2021-07-29,1,9,1
+C01741,Luiz Miguel da Costa,69,Sudeste,Basic,2021-04-06,4,9,0
+C01742,Agatha Castro,21,Sudeste,Basic,2023-06-13,3,10,0
+C01743,João Guilherme Vasconcelos,25,Centro-Oeste,Enterprise,2023-01-26,2,10,0
+C01744,Maria Rios,37,Sul,Basic,2022-02-19,5,5,1
+C01745,Maria Luiza Pastor,46,Nordeste,Basic,2022-01-29,2,7,0
+C01746,Valentim Albuquerque,68,Norte,Basic,2022-11-27,1,0,0
+C01747,Dra. Ana Lívia Borges,62,Sul,Basic,2023-04-24,4,5,0
+C01748,Larissa Silveira,63,Sudeste,Enterprise,2022-08-27,4,5,0
+C01749,Marcela Ferreira,27,Centro-Oeste,Basic,2022-08-05,4,10,1
+C01750,Henry Gabriel Pereira,60,Centro-Oeste,Pro,2021-05-13,3,4,0
+C01751,Rafael Guerra,51,Norte,Pro,2023-03-02,1,3,0
+C01752,Alana da Luz,43,Centro-Oeste,Enterprise,2022-10-11,3,0,0
+C01753,Nicolas Montenegro,58,Centro-Oeste,Pro,2021-08-09,0,10,0
+C01754,Brayan Montenegro,66,Sul,Pro,2023-09-03,0,9,1
+C01755,Luigi Camargo,20,Nordeste,Basic,2023-12-06,4,10,0
+C01756,Jade Nascimento,23,Norte,Basic,2023-02-27,5,7,0
+C01757,Isis Sales,22,Sul,Basic,2022-11-22,2,5,0
+C01758,Maria Flor Nunes,22,Nordeste,Enterprise,2021-02-08,1,2,0
+C01759,Isabelly Sá,64,Sul,Basic,2022-11-21,1,2,0
+C01760,Dr. Raul Pastor,40,Sul,Basic,2021-06-11,1,5,0
+C01761,Rodrigo Camargo,66,Centro-Oeste,Basic,2021-06-10,3,6,1
+C01762,Bernardo Garcia,26,Nordeste,Basic,2023-12-14,0,7,0
+C01763,Hellena Rocha,52,Norte,Basic,2023-11-24,2,4,0
+C01764,Srta. Luara Jesus,37,Norte,Enterprise,2021-08-30,0,9,0
+C01765,Sr. João da Cruz,66,Nordeste,Basic,2023-08-25,2,5,1
+C01766,Caleb Guerra,59,Centro-Oeste,Pro,2023-06-09,0,0,0
+C01767,Manuela Barbosa,52,Sudeste,Pro,2021-04-23,5,5,0
+C01768,Emanuelly Melo,67,Sul,Basic,2023-10-11,2,8,0
+C01769,Dr. Henrique Oliveira,35,Centro-Oeste,Basic,2021-11-14,2,9,0
+C01770,Fernando Souza,34,Nordeste,Basic,2021-01-23,7,3,1
+C01771,Esther Monteiro,41,Sul,Basic,2023-04-04,1,9,0
+C01772,Srta. Isabela Sousa,20,Norte,Pro,2022-12-02,3,0,1
+C01773,João Costela,49,Sudeste,Basic,2023-10-16,0,10,1
+C01774,Guilherme da Cruz,52,Norte,Basic,2023-12-04,1,8,0
+C01775,Maria Alice Cassiano,55,Nordeste,Pro,2021-05-08,2,3,0
+C01776,Dante Barros,30,Sul,Enterprise,2023-05-26,1,1,0
+C01777,Sabrina Pimenta,64,Nordeste,Pro,2021-06-07,2,0,0
+C01778,Vitor Hugo Aparecida,42,Sul,Pro,2023-04-07,0,2,1
+C01779,Maria Fernanda Pinto,26,Centro-Oeste,Pro,2023-05-02,1,6,0
+C01780,Dr. João Guilherme Mendonça,21,Sudeste,Basic,2022-05-27,0,10,0
+C01781,Thomas da Mota,31,Centro-Oeste,Pro,2021-02-14,4,9,0
+C01782,Hellena Sá,54,Centro-Oeste,Basic,2021-08-07,2,1,1
+C01783,Carolina Aragão,51,Nordeste,Pro,2022-03-19,1,8,0
+C01784,Mariana Mendes,28,Sudeste,Pro,2021-11-11,0,10,0
+C01785,Ana Beatriz Montenegro,58,Sul,Basic,2021-06-26,8,1,0
+C01786,Dr. Erick Marques,20,Sul,Pro,2021-08-16,1,4,0
+C01787,Valentim Marques,45,Norte,Enterprise,2021-09-24,3,7,0
+C01788,Sr. Anthony Gabriel Rocha,46,Sul,Basic,2023-05-20,2,9,0
+C01789,Mateus Pacheco,26,Nordeste,Pro,2023-04-18,1,7,0
+C01790,Luan Fonseca,20,Centro-Oeste,Basic,2022-05-04,1,2,0
+C01791,Joana Cirino,42,Centro-Oeste,Pro,2022-12-03,4,1,0
+C01792,Julia da Costa,51,Centro-Oeste,Basic,2022-11-18,1,8,0
+C01793,Ravy Pimenta,29,Sudeste,Pro,2023-09-23,1,2,0
+C01794,Dr. Francisco Monteiro,59,Sul,Enterprise,2021-12-23,2,7,0
+C01795,Giovanna Leão,26,Nordeste,Enterprise,2023-05-22,2,1,0
+C01796,Sra. Maria Clara Guerra,32,Sudeste,Pro,2021-07-23,0,2,0
+C01797,Rael Cirino,57,Norte,Basic,2022-07-06,2,0,0
+C01798,Caroline Oliveira,42,Nordeste,Enterprise,2021-11-19,1,10,0
+C01799,Heloísa Brito,22,Nordeste,Basic,2022-08-17,3,5,0
+C01800,Sra. Isabela Novais,28,Nordeste,Enterprise,2021-06-30,1,6,0
+C01801,Maria Helena Costa,51,Centro-Oeste,Basic,2022-05-14,2,3,0
+C01802,Dom Melo,41,Nordeste,Basic,2021-03-24,6,0,0
+C01803,Felipe Leão,32,Sul,Pro,2021-10-30,3,2,0
+C01804,Catarina Pires,55,Nordeste,Basic,2021-09-19,0,8,0
+C01805,Yasmin Silveira,25,Centro-Oeste,Basic,2023-02-23,2,4,1
+C01806,Dr. Kaique da Cunha,22,Nordeste,Basic,2023-07-03,4,5,0
+C01807,Ana Julia Gonçalves,65,Norte,Basic,2022-11-23,0,3,1
+C01808,Enrico Araújo,43,Norte,Basic,2023-08-02,3,0,0
+C01809,José Miguel Melo,35,Centro-Oeste,Basic,2022-11-14,2,4,0
+C01810,Aylla Machado,23,Sul,Basic,2022-11-20,3,4,1
+C01811,Sra. Joana Fonseca,54,Sul,Basic,2022-01-31,2,4,0
+C01812,Dr. Luiz Felipe Almeida,65,Sudeste,Pro,2023-04-19,3,5,0
+C01813,Camila Ferreira,30,Centro-Oeste,Basic,2023-05-28,1,10,1
+C01814,Fernanda Oliveira,45,Nordeste,Enterprise,2023-04-03,3,1,0
+C01815,Zoe Cavalcanti,22,Centro-Oeste,Enterprise,2021-02-18,1,0,0
+C01816,Luiz Gustavo Duarte,30,Sudeste,Basic,2023-02-28,5,1,0
+C01817,Sophia Mendonça,34,Centro-Oeste,Pro,2021-10-20,0,9,1
+C01818,Sra. Anna Liz Garcia,67,Centro-Oeste,Pro,2022-06-20,6,5,1
+C01819,Laura Martins,57,Sudeste,Enterprise,2021-11-07,3,4,0
+C01820,Clara Cavalcante,62,Sul,Pro,2022-06-21,2,4,0
+C01821,Maitê Leão,49,Nordeste,Basic,2022-10-01,3,5,1
+C01822,Maria Luiza Barbosa,46,Sudeste,Pro,2021-08-22,1,9,0
+C01823,Enrico Fernandes,68,Norte,Pro,2022-08-28,3,6,0
+C01824,Levi Dias,20,Sul,Pro,2021-04-04,1,8,0
+C01825,Lavínia Santos,57,Norte,Basic,2021-11-23,2,6,0
+C01826,Miguel da Mata,51,Sul,Enterprise,2021-08-13,2,1,0
+C01827,Maria Cecília Souza,57,Nordeste,Enterprise,2023-08-25,1,5,1
+C01828,Stephany Machado,44,Nordeste,Basic,2023-06-09,2,8,1
+C01829,Eloah Cirino,30,Centro-Oeste,Basic,2021-01-11,2,6,0
+C01830,Davi Lucas Siqueira,62,Norte,Basic,2023-11-02,2,1,0
+C01831,José Souza,50,Sul,Pro,2021-02-04,5,2,0
+C01832,Dra. Anna Liz Costela,23,Nordeste,Pro,2022-03-23,1,7,0
+C01833,Miguel Caldeira,41,Sudeste,Pro,2022-03-17,0,10,0
+C01834,Benício Melo,36,Nordeste,Basic,2022-10-15,4,8,0
+C01835,Ana Júlia Alves,33,Sudeste,Pro,2022-08-18,4,3,0
+C01836,Valentina Teixeira,57,Sul,Basic,2021-08-17,3,8,0
+C01837,Cauã da Luz,45,Nordeste,Basic,2021-12-10,4,1,0
+C01838,Daniela Barros,50,Nordeste,Pro,2023-09-16,2,10,0
+C01839,Maria Julia das Neves,65,Sul,Enterprise,2023-06-28,0,4,0
+C01840,Josué Sousa,58,Nordeste,Enterprise,2022-06-11,0,10,0
+C01841,Pedro Miguel Pires,30,Sudeste,Enterprise,2021-03-16,3,1,0
+C01842,Davi Lucca Moura,60,Nordeste,Basic,2021-07-15,4,10,0
+C01843,Arthur Andrade,62,Norte,Basic,2021-01-29,2,0,0
+C01844,Maria Alice Duarte,42,Centro-Oeste,Pro,2022-12-07,0,4,0
+C01845,Nina Nogueira,59,Sudeste,Enterprise,2023-10-18,0,1,0
+C01846,Yan Macedo,53,Norte,Basic,2021-01-16,1,6,0
+C01847,Vitor Hugo Cavalcanti,44,Sul,Basic,2023-03-16,1,7,0
+C01848,Mirella Pires,55,Sudeste,Basic,2023-07-29,2,1,1
+C01849,Dra. Maya Moura,24,Centro-Oeste,Pro,2023-08-25,0,6,0
+C01850,Yasmin das Neves,22,Centro-Oeste,Basic,2021-08-17,0,3,0
+C01851,Dr. Vitor Hugo da Conceição,60,Sul,Basic,2023-08-20,1,0,0
+C01852,Pedro Miguel das Neves,62,Sul,Basic,2022-12-16,2,10,0
+C01853,Dr. José Pedro Cassiano,68,Sudeste,Basic,2023-09-11,1,2,0
+C01854,Anthony Abreu,48,Nordeste,Enterprise,2022-07-27,4,10,0
+C01855,Catarina Ferreira,40,Sul,Basic,2022-09-07,2,0,0
+C01856,Ravy Nascimento,59,Nordeste,Pro,2021-11-22,3,4,0
+C01857,Samuel Sá,27,Norte,Pro,2023-05-25,2,7,1
+C01858,Letícia Albuquerque,49,Centro-Oeste,Enterprise,2021-12-25,3,0,0
+C01859,Lavínia Peixoto,60,Nordeste,Basic,2021-11-20,0,8,0
+C01860,André Novaes,47,Centro-Oeste,Enterprise,2021-06-14,4,2,0
+C01861,Sr. Noah Novais,56,Nordeste,Pro,2023-03-09,2,4,0
+C01862,Maria Laura da Cruz,48,Norte,Enterprise,2022-03-31,2,8,0
+C01863,Mathias Garcia,35,Sul,Enterprise,2021-07-12,1,4,0
+C01864,João Barros,53,Norte,Basic,2022-09-19,2,8,0
+C01865,Isabella Moreira,19,Sul,Basic,2022-06-14,1,9,0
+C01866,Júlia da Paz,31,Sul,Basic,2023-10-31,1,7,0
+C01867,Yasmin da Mata,30,Centro-Oeste,Pro,2021-04-02,0,6,0
+C01868,Esther Azevedo,46,Norte,Basic,2021-05-19,3,10,0
+C01869,Davi Luiz da Rocha,29,Nordeste,Basic,2022-04-26,5,0,0
+C01870,Rafael Pinto,56,Norte,Basic,2022-03-25,2,3,0
+C01871,Júlia Sampaio,19,Centro-Oeste,Basic,2023-05-19,1,8,0
+C01872,Rebeca Correia,49,Sul,Basic,2021-12-06,0,9,0
+C01873,Sr. Dom Aragão,30,Centro-Oeste,Basic,2023-12-12,1,7,0
+C01874,Alícia Cirino,63,Sudeste,Basic,2022-04-11,2,3,1
+C01875,João Miguel da Mata,44,Sudeste,Basic,2022-12-19,0,0,0
+C01876,Pedro Lucas Siqueira,66,Nordeste,Basic,2023-03-10,2,9,1
+C01877,Igor Borges,58,Centro-Oeste,Basic,2022-04-20,1,3,0
+C01878,Anthony Gabriel Monteiro,34,Nordeste,Enterprise,2022-02-05,1,2,0
+C01879,Luigi Leão,57,Nordeste,Pro,2022-08-28,5,5,0
+C01880,Theo Freitas,48,Sudeste,Basic,2023-07-21,0,10,0
+C01881,Ana Beatriz Farias,51,Nordeste,Basic,2023-09-24,2,4,0
+C01882,Diogo Araújo,41,Sudeste,Pro,2023-07-11,0,4,0
+C01883,Matteo Barbosa,62,Sul,Enterprise,2023-04-01,0,1,1
+C01884,Olivia Cirino,52,Centro-Oeste,Enterprise,2022-10-19,0,2,0
+C01885,José Garcia,65,Nordeste,Pro,2022-08-21,3,10,0
+C01886,Davi Vargas,23,Sudeste,Basic,2022-05-29,4,5,0
+C01887,Srta. Maria Isis Vargas,36,Norte,Basic,2023-10-27,4,1,0
+C01888,Isadora Sousa,47,Nordeste,Basic,2022-05-15,1,3,0
+C01889,Gael Henrique Marques,24,Sul,Enterprise,2022-12-18,2,1,0
+C01890,Srta. Stephany Rios,27,Sul,Pro,2022-08-24,2,8,0
+C01891,Renan Gomes,58,Norte,Pro,2022-10-28,1,2,0
+C01892,Luana Duarte,49,Sudeste,Basic,2022-04-13,3,9,0
+C01893,Asafe Souza,51,Nordeste,Pro,2021-06-10,3,9,0
+C01894,Stephany Campos,45,Sudeste,Basic,2021-09-27,2,5,0
+C01895,Rodrigo Porto,32,Sul,Basic,2023-12-16,1,0,1
+C01896,Gael Henrique Fonseca,47,Sudeste,Basic,2021-08-16,3,10,1
+C01897,Henrique Camargo,54,Sul,Pro,2023-04-29,0,9,0
+C01898,Pedro Henrique Duarte,46,Sudeste,Basic,2021-05-29,3,2,0
+C01899,Enzo Vieira,39,Norte,Enterprise,2023-12-06,2,7,0
+C01900,Dante Gonçalves,21,Centro-Oeste,Basic,2022-09-24,1,4,0
+C01901,Anthony Aparecida,37,Norte,Pro,2022-02-17,3,7,0
+C01902,Olívia Sales,49,Norte,Pro,2022-06-04,3,1,1
+C01903,Daniela Freitas,53,Centro-Oeste,Basic,2022-01-22,2,6,0
+C01904,Josué Castro,67,Centro-Oeste,Pro,2021-10-02,3,8,0
+C01905,Ayla Rodrigues,21,Nordeste,Pro,2021-12-19,2,6,0
+C01906,Maitê Teixeira,44,Nordeste,Pro,2023-12-26,1,2,1
+C01907,Ana Liz Araújo,34,Norte,Enterprise,2022-08-21,3,6,1
+C01908,Sr. Vitor Gabriel Vieira,29,Norte,Pro,2022-07-12,1,7,0
+C01909,Davi Lucas Mendonça,39,Sul,Basic,2021-04-23,2,0,0
+C01910,Liam Novais,34,Sul,Pro,2021-05-21,2,2,0
+C01911,Manuella Macedo,27,Nordeste,Basic,2022-12-31,4,4,0
+C01912,Srta. Alícia Sales,18,Nordeste,Basic,2022-08-12,1,5,0
+C01913,Maria Alice Silveira,39,Sul,Basic,2022-02-15,1,2,0
+C01914,José Aparecida,43,Sul,Pro,2022-01-12,2,3,0
+C01915,Maysa Novais,35,Sudeste,Pro,2023-01-21,3,4,0
+C01916,Vitor Hugo Sampaio,67,Sudeste,Basic,2022-09-19,1,2,0
+C01917,Esther Nunes,31,Sul,Pro,2023-09-22,1,3,0
+C01918,Yago Ferreira,64,Sudeste,Enterprise,2022-12-04,2,4,0
+C01919,Dr. João Guilherme Peixoto,46,Centro-Oeste,Basic,2022-04-07,1,1,0
+C01920,Elisa Azevedo,29,Nordeste,Basic,2021-01-12,2,9,0
+C01921,Daniela Machado,53,Nordeste,Pro,2022-04-22,2,8,0
+C01922,João Nogueira,52,Sul,Basic,2023-07-28,1,9,1
+C01923,Dr. Alexandre Vasconcelos,69,Norte,Pro,2022-02-05,1,7,0
+C01924,Sofia Garcia,29,Sul,Basic,2023-03-19,2,5,0
+C01925,Srta. Allana Pinto,24,Sudeste,Basic,2021-06-26,1,9,0
+C01926,Sr. Lorenzo Silveira,46,Norte,Pro,2021-02-26,2,10,0
+C01927,Vitor Gabriel Gomes,28,Sudeste,Pro,2022-03-24,2,2,1
+C01928,Vinicius Rodrigues,50,Centro-Oeste,Pro,2021-07-22,3,10,0
+C01929,Daniela Pimenta,23,Sudeste,Enterprise,2023-01-08,3,1,0
+C01930,Lorenzo Jesus,64,Centro-Oeste,Pro,2021-07-21,2,6,1
+C01931,Luna Camargo,32,Centro-Oeste,Pro,2021-12-29,4,7,0
+C01932,Vicente Ribeiro,49,Sudeste,Basic,2023-06-11,4,9,0
+C01933,Augusto Cardoso,68,Sudeste,Pro,2022-03-30,1,0,0
+C01934,Arthur Gabriel Costa,28,Centro-Oeste,Basic,2021-12-22,3,5,0
+C01935,Ryan Correia,40,Norte,Pro,2021-08-04,1,6,0
+C01936,Arthur Gabriel Oliveira,43,Centro-Oeste,Basic,2023-08-30,0,8,0
+C01937,Maria Julia Ribeiro,51,Nordeste,Pro,2022-07-09,3,2,0
+C01938,Valentina Pinto,63,Centro-Oeste,Basic,2023-06-06,3,1,0
+C01939,Dra. Jade Aragão,51,Norte,Pro,2021-01-23,0,4,0
+C01940,Sr. Brayan Albuquerque,46,Nordeste,Enterprise,2021-06-04,0,9,1
+C01941,Samuel Barros,21,Sul,Basic,2021-09-06,4,0,1
+C01942,Ana Liz Fonseca,34,Sul,Enterprise,2023-01-19,1,5,0
+C01943,Maria Vitória Freitas,52,Norte,Basic,2023-03-16,4,8,0
+C01944,Srta. Juliana Moura,30,Centro-Oeste,Pro,2021-05-14,2,9,0
+C01945,Brayan da Rosa,58,Sudeste,Enterprise,2021-11-17,2,8,1
+C01946,Henrique Moreira,56,Norte,Basic,2022-01-25,3,6,0
+C01947,Carlos Eduardo Silveira,32,Nordeste,Enterprise,2022-03-10,2,10,1
+C01948,Vitor Gomes,46,Nordeste,Basic,2023-11-12,2,6,1
+C01949,Gael Moura,46,Sul,Basic,2023-05-23,0,7,0
+C01950,Isadora Nunes,28,Nordeste,Enterprise,2023-05-08,3,9,0
+C01951,Emanuelly Novais,69,Norte,Basic,2021-02-20,2,1,0
+C01952,Dra. Maria Vitória Souza,49,Nordeste,Enterprise,2021-06-25,2,5,0
+C01953,Luiz Henrique Rocha,19,Norte,Enterprise,2023-05-20,1,4,0
+C01954,Mariane Caldeira,64,Sudeste,Basic,2021-09-10,1,4,0
+C01955,Fernando Novaes,31,Sul,Pro,2023-08-24,1,2,1
+C01956,Sofia Fernandes,37,Nordeste,Basic,2023-01-09,3,2,0
+C01957,Eduarda Nascimento,39,Norte,Basic,2021-10-29,1,5,1
+C01958,Melina Fogaça,28,Centro-Oeste,Basic,2022-07-02,4,9,0
+C01959,Dr. Marcelo Jesus,44,Sul,Basic,2022-12-17,2,9,0
+C01960,Marina Silveira,20,Sudeste,Basic,2023-02-18,1,6,0
+C01961,Sr. Yago Cunha,34,Norte,Basic,2021-09-25,1,0,0
+C01962,Jade Fonseca,61,Sudeste,Enterprise,2023-10-07,3,2,0
+C01963,Melissa Gonçalves,45,Sudeste,Pro,2022-07-05,2,0,0
+C01964,Arthur Gabriel da Paz,46,Nordeste,Pro,2021-11-10,0,9,1
+C01965,Allana Moreira,38,Nordeste,Pro,2021-07-03,3,2,0
+C01966,Kevin Abreu,64,Norte,Pro,2022-12-14,1,4,0
+C01967,Henry Cunha,33,Centro-Oeste,Basic,2021-05-08,0,8,1
+C01968,Sr. João Guilherme Novaes,54,Norte,Pro,2022-12-01,6,2,0
+C01969,Daniela Brito,37,Centro-Oeste,Enterprise,2022-01-21,1,9,0
+C01970,Raul Fogaça,23,Sudeste,Basic,2021-09-28,4,9,0
+C01971,Davi Miguel da Luz,36,Sul,Pro,2023-03-22,3,8,0
+C01972,Sr. Igor da Cunha,22,Norte,Pro,2022-02-19,3,0,0
+C01973,Caleb Oliveira,20,Norte,Enterprise,2021-07-17,3,5,0
+C01974,Helena Siqueira,18,Centro-Oeste,Pro,2023-12-16,3,8,0
+C01975,Luan Vieira,55,Sudeste,Basic,2023-04-11,1,4,0
+C01976,Emanuella Mendonça,32,Sudeste,Basic,2022-09-20,0,10,0
+C01977,Dra. Aylla Peixoto,51,Centro-Oeste,Basic,2022-08-27,1,9,0
+C01978,Letícia Andrade,52,Sudeste,Pro,2023-12-17,1,1,1
+C01979,Dra. Maria Helena Barros,66,Nordeste,Basic,2023-10-07,0,4,0
+C01980,Lucas Gabriel Ferreira,42,Sul,Enterprise,2021-03-12,1,0,0
+C01981,Maria Vitória Campos,41,Norte,Basic,2023-06-30,3,8,1
+C01982,Anthony Porto,29,Sul,Basic,2022-08-17,0,9,0
+C01983,Maria Helena Aragão,35,Norte,Basic,2022-08-23,0,9,1
+C01984,Vinicius Aparecida,32,Nordeste,Pro,2022-05-29,2,8,1
+C01985,Sr. Luan Montenegro,61,Sudeste,Basic,2021-03-25,1,5,0
+C01986,Srta. Daniela Aragão,33,Centro-Oeste,Basic,2023-09-21,4,10,0
+C01987,Maria Júlia Machado,44,Nordeste,Basic,2023-12-03,0,8,0
+C01988,Sofia Borges,25,Sul,Basic,2023-04-19,2,2,0
+C01989,Pedro da Rocha,63,Centro-Oeste,Basic,2022-08-29,4,3,0
+C01990,Clara Cardoso,42,Sudeste,Pro,2023-03-21,2,5,0
+C01991,Sr. Renan Oliveira,34,Nordeste,Pro,2021-05-13,4,3,0
+C01992,Srta. Maria Liz da Luz,46,Centro-Oeste,Basic,2023-12-25,1,0,0
+C01993,Murilo Montenegro,25,Nordeste,Pro,2021-10-17,2,6,0
+C01994,Caroline Teixeira,32,Nordeste,Enterprise,2022-01-11,0,4,0
+C01995,Rodrigo Novais,44,Sudeste,Pro,2023-02-08,2,7,0
+C01996,Ryan Gonçalves,63,Norte,Pro,2022-04-12,2,8,0
+C01997,Fernanda Novais,67,Centro-Oeste,Enterprise,2022-04-16,4,4,1
+C01998,Valentina da Cruz,69,Sudeste,Enterprise,2021-05-29,1,7,1
+C01999,Brayan da Mata,24,Nordeste,Pro,2021-03-29,5,0,0
+C02000,Luna Rodrigues,20,Sudeste,Basic,2022-01-31,1,0,1

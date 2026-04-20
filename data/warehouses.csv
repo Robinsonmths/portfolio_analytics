@@ -1,0 +1,13 @@
+warehouse_id,city,region,capacity,utilization_pct,manager
+WH01,São Paulo,Sudeste,14887,0.6,Aurora Camargo
+WH02,Rio de Janeiro,Sudeste,14519,0.55,Maria Sophia Lima
+WH03,Curitiba,Sul,16784,0.95,Dr. Gabriel Duarte
+WH04,Belo Horizonte,Sudeste,16307,0.78,Sr. Leandro Cavalcante
+WH05,Salvador,Nordeste,8011,0.79,Dr. Diogo Macedo
+WH06,Fortaleza,Nordeste,14474,0.95,Igor Costa
+WH07,Manaus,Norte,9907,0.85,Maria Fernanda Cassiano
+WH08,Brasília,Centro-Oeste,18105,0.91,Srta. Brenda Sousa
+WH09,Porto Alegre,Sul,11371,0.88,Joaquim Pinto
+WH10,Recife,Nordeste,13495,0.81,João Pedro Albuquerque
+WH11,Goiânia,Centro-Oeste,8846,0.85,Sr. Leandro Machado
+WH12,Belém,Norte,8081,0.79,Alícia Farias
